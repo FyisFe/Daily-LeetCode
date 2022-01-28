@@ -21,6 +21,10 @@
   - [1305. All Elements in Two Binary Search Trees](./Jan_26_2022/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.py)
 
 - Day 3: Jan 27 2022
+
   - [95. Unique Binary Search Trees II](./Jan_27_2022/95.%20Unique%20Binary%20Search%20Trees%20II.py)
   - [96. Unique Binary Search Trees](./Jan_27_2022/96.%20Unique%20Binary%20Search%20Trees.py)
   - [98. Validate Binary Search Tree](./Jan_27_2022/98.%20Validate%20Binary%20Search%20Tree.py)
+
+- Day 4: Jan 28 2022
+  - [99. Recover Binary Search Tree](./Jan_28_2022/99.%20Recover%20Binary%20Search%20Tree.py)
