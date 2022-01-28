@@ -28,3 +28,4 @@
 
 - Day 4: Jan 28 2022
   - [99. Recover Binary Search Tree](./Jan_28_2022/99.%20Recover%20Binary%20Search%20Tree.py)
+  - [100. Same Tree](./Jan_28_2022/100.%20Same%20Tree.py)
