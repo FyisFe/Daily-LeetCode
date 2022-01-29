@@ -27,6 +27,10 @@
   - [98. Validate Binary Search Tree](./Jan_27_2022/98.%20Validate%20Binary%20Search%20Tree.py)
 
 - Day 4: Jan 28 2022
+
   - [99. Recover Binary Search Tree](./Jan_28_2022/99.%20Recover%20Binary%20Search%20Tree.py)
   - [100. Same Tree](./Jan_28_2022/100.%20Same%20Tree.py)
   - [101. Symmetric Tree](./Jan_28_2022/101.%20Symmetric%20Tree.py)
+
+- Day 5: Jan 29 2022
+  - [104. Maximum Depth of Binary Tree](./Jan_29_2022/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
