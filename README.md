@@ -35,3 +35,4 @@
 - Day 5: Jan 29 2022
   - [104. Maximum Depth of Binary Tree](./Jan_29_2022/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
   - [26. Remove Duplicates from Sorted Array](./Jan_29_2022/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
+  - [27. Remove Element](./Jan_29_2022/27.%20Remove%20Element.py)
