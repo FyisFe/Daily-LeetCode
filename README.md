@@ -33,6 +33,10 @@
   - [101. Symmetric Tree](./Jan_28_2022/101.%20Symmetric%20Tree.py)
 
 - Day 5: Jan 29 2022
+
   - [104. Maximum Depth of Binary Tree](./Jan_29_2022/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
   - [26. Remove Duplicates from Sorted Array](./Jan_29_2022/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
   - [27. Remove Element](./Jan_29_2022/27.%20Remove%20Element.py)
+
+- Day 6: Jan 30 2022
+  - [189. Rotate Array](./Jan_30_2022/189.%20Rotate%20Array.py)
