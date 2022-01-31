@@ -39,5 +39,9 @@
   - [27. Remove Element](./Jan_29_2022/27.%20Remove%20Element.py)
 
 - Day 6: Jan 30 2022
+
   - [189. Rotate Array](./Jan_30_2022/189.%20Rotate%20Array.py)
   - [33. Search in Rotated Sorted Array](./Jan_30_2022/33.%20Search%20in%20Rotated%20Sorted%20Array.py)
+
+- Day X: Jan 31 2022
+  - Happy Chinese New Year!
