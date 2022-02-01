@@ -49,3 +49,4 @@
 
 - Day 7: Feb 1 2022
   - [121. Best Time to Buy and Sell Stock](./Feb_01_2022/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
+  - [1935. Maximum Number of Words You Can Type](./Feb_01_2022/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.py)
