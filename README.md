@@ -44,4 +44,8 @@
   - [33. Search in Rotated Sorted Array](./Jan_30_2022/33.%20Search%20in%20Rotated%20Sorted%20Array.py)
 
 - Day X: Jan 31 2022
+
   - Happy Chinese New Year!
+
+- Day 7: Feb 1 2022
+  - [121. Best Time to Buy and Sell Stock](./Feb_01_2022/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
