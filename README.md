@@ -53,4 +53,8 @@
   - [1935. Maximum Number of Words You Can Type](./Feb_01_2022/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.py)
 
 - Day 8: Feb 2 2022
+
   - [438. Find All Anagrams in a String](./Feb_02_2022/438.%20Find%20All%20Anagrams%20in%20a%20String.py)
+
+- Day 9: Feb 4 2022
+  - [525. Contiguous Array](./Feb_04_2022/525.%20Contiguous%20Array.py)
