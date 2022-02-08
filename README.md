@@ -57,4 +57,8 @@
   - [438. Find All Anagrams in a String](./Feb_02_2022/438.%20Find%20All%20Anagrams%20in%20a%20String.py)
 
 - Day 9: Feb 4 2022
+
   - [525. Contiguous Array](./Feb_04_2022/525.%20Contiguous%20Array.py)
+
+- Day 10: Feb 8 2022
+  - [258. Add Digits](./Feb_08_2022/258.%20Add%20Digits.py)
