@@ -61,4 +61,8 @@
   - [525. Contiguous Array](./Feb_04_2022/525.%20Contiguous%20Array.py)
 
 - Day 10: Feb 8 2022
+
   - [258. Add Digits](./Feb_08_2022/258.%20Add%20Digits.py)
+
+- Day 11: Feb 9 2022
+  - [9. Palindrome Number](./Feb_09_2022/9.%20Palindrome%20Number.py)
