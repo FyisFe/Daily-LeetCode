@@ -65,5 +65,9 @@
   - [258. Add Digits](./Feb_08_2022/258.%20Add%20Digits.py)
 
 - Day 11: Feb 9 2022
+
   - [9. Palindrome Number](./Feb_09_2022/9.%20Palindrome%20Number.py)
   - [13. Roman to Integer](./Feb_09_2022/13.%20Roman%20to%20Integer.py)
+
+- Day 12: Feb 10 2022
+  - [560. Subarray Sum Equals K](./Feb_10_2022/560.%20Subarray%20Sum%20Equals%20K.py)
