@@ -70,4 +70,8 @@
   - [13. Roman to Integer](./Feb_09_2022/13.%20Roman%20to%20Integer.py)
 
 - Day 12: Feb 10 2022
+
   - [560. Subarray Sum Equals K](./Feb_10_2022/560.%20Subarray%20Sum%20Equals%20K.py)
+
+- Day 13: Feb 11 2022
+  - [567. Permutation in String](./Feb_11_2022/567.%20Permutation%20in%20String.py)
