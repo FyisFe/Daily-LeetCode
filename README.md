@@ -77,6 +77,10 @@
 
   - [567. Permutation in String](./Feb_11_2022/567.%20Permutation%20in%20String.py)
 
-- Dat 14: Feb 12 2022
+- Day 14: Feb 12 2022
+
   - [804. Unique Morse Code Words](./Feb_12_2022/804.%20Unique%20Morse%20Code%20Words.py)
   - [1748. Sum of Unique Elements](./Feb_12_2022/1748.%20Sum%20of%20Unique%20Elements.py)
+
+- Day 15: Feb 13 2022
+  - [35. Search Insert Position](./Feb_13_2022/35.%20Search%20Insert%20Position.py)
