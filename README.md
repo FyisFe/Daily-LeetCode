@@ -74,4 +74,8 @@
   - [560. Subarray Sum Equals K](./Feb_10_2022/560.%20Subarray%20Sum%20Equals%20K.py)
 
 - Day 13: Feb 11 2022
+
   - [567. Permutation in String](./Feb_11_2022/567.%20Permutation%20in%20String.py)
+
+- Dat 14: Feb 12 2022
+  - [804. Unique Morse Code Words](./Feb_12_2022/804.%20Unique%20Morse%20Code%20Words.py)
