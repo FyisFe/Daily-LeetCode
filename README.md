@@ -83,6 +83,10 @@
   - [1748. Sum of Unique Elements](./Feb_12_2022/1748.%20Sum%20of%20Unique%20Elements.py)
 
 - Day 15: Feb 13 2022
+
   - [35. Search Insert Position](./Feb_13_2022/35.%20Search%20Insert%20Position.py)
   - [14. Longest Common Prefix](./Feb_13_2022/14.%20Longest%20Common%20Prefix.py)
   - [78. Subsets](./Feb_13_2022/78.%20Subsets.py)
+
+- Day 16: Feb 14 2022
+  - [108. Convert Sorted Array to Binary Search Tree](./Feb_14_2022/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
