@@ -90,3 +90,4 @@
 
 - Day 16: Feb 14 2022
   - [108. Convert Sorted Array to Binary Search Tree](./Feb_14_2022/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
+  - [110. Balanced Binary Tree](./Feb_14_2022/110.%20Balanced%20Binary%20Tree.py)
