@@ -101,3 +101,4 @@
 - Day 18: Feb 16 2022
   - [24. Swap Nodes in Pairs](./Feb_16_2022/24.%20Swap%20Nodes%20in%20Pairs.py)
   - [704. Binary Search](./Feb_16_2022/704.%20Binary%20Search.py)
+  - [278. First Bad Version](./Feb_16_2022/278.%20First%20Bad%20Version.py)
