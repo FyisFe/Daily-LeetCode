@@ -94,5 +94,10 @@
   - [110. Balanced Binary Tree](./Feb_14_2022/110.%20Balanced%20Binary%20Tree.py)
 
 - Day 17: Feb 15 2022
+
   - [136. Single Number](./Feb_15_2022/136.%20Single%20Number.py)
   - [111. Minimum Depth of Binary Tree](./Feb_15_2022/111.%20Minimum%20Depth%20of%20Binary%20Tree.py)
+
+- Day 18: Feb 16 2022
+  - [24. Swap Nodes in Pairs](./Feb_16_2022/24.%20Swap%20Nodes%20in%20Pairs.py)
+  - [704. Binary Search](./Feb_16_2022/704.%20Binary%20Search.py)
