@@ -106,3 +106,4 @@
 
 - Day 19: Feb 17 2022
   - [39. Combination Sum](./Feb_17_2022/39.%20Combination%20Sum.py)
+  - [977. Squares of a Sorted Array](./Feb_17_2022/977.%20Squares%20of%20a%20Sorted%20Array.py)
