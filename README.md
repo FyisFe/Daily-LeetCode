@@ -105,5 +105,9 @@
   - [278. First Bad Version](./Feb_16_2022/278.%20First%20Bad%20Version.py)
 
 - Day 19: Feb 17 2022
+
   - [39. Combination Sum](./Feb_17_2022/39.%20Combination%20Sum.py)
   - [977. Squares of a Sorted Array](./Feb_17_2022/977.%20Squares%20of%20a%20Sorted%20Array.py)
+
+- Day 20: Feb 18 2022
+  - [402. Remove K Digits](./Feb_18_2022/402.%20Remove%20K%20Digits.py)
