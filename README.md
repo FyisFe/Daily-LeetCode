@@ -112,3 +112,4 @@
 - Day 20: Feb 18 2022
   - [402. Remove K Digits](./Feb_18_2022/402.%20Remove%20K%20Digits.py)
   - [283. Move Zeroes](./Feb_18_2022/283.%20Move%20Zeroes.py)
+  - [167. Two Sum II - Input array is sorted](./Feb_18_2022/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)
