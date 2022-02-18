@@ -111,3 +111,4 @@
 
 - Day 20: Feb 18 2022
   - [402. Remove K Digits](./Feb_18_2022/402.%20Remove%20K%20Digits.py)
+  - [283. Move Zeroes](./Feb_18_2022/283.%20Move%20Zeroes.py)
