@@ -113,3 +113,5 @@
   - [402. Remove K Digits](./Feb_18_2022/402.%20Remove%20K%20Digits.py)
   - [283. Move Zeroes](./Feb_18_2022/283.%20Move%20Zeroes.py)
   - [167. Two Sum II - Input array is sorted](./Feb_18_2022/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)
+- Day 21: Feb 19 2022
+  - [344. Reverse String](./Feb_19_2022/344.%20Reverse%20String.py)
