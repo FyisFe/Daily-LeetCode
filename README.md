@@ -122,3 +122,4 @@
 - Day 22: Feb 20 2022
   - [1288. Remove Covered Intervals](./Feb_20_2022/1288.%20Remove%20Covered%20Intervals.py)
   - [876. Middle of the Linked List](./Feb_20_2022/876.%20Middle%20of%20the%20Linked%20List.py)
+  - [19. Remove Nth Node From End of List](./Feb_20_2022/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)
