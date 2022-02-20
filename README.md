@@ -110,8 +110,14 @@
   - [977. Squares of a Sorted Array](./Feb_17_2022/977.%20Squares%20of%20a%20Sorted%20Array.py)
 
 - Day 20: Feb 18 2022
+
   - [402. Remove K Digits](./Feb_18_2022/402.%20Remove%20K%20Digits.py)
   - [283. Move Zeroes](./Feb_18_2022/283.%20Move%20Zeroes.py)
   - [167. Two Sum II - Input array is sorted](./Feb_18_2022/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)
+
 - Day 21: Feb 19 2022
+
   - [344. Reverse String](./Feb_19_2022/344.%20Reverse%20String.py)
+
+- Day 22: Feb 20 2022
+  - [1288. Remove Covered Intervals](./Feb_20_2022/1288.%20Remove%20Covered%20Intervals.py)
