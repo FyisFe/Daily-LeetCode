@@ -126,5 +126,9 @@
   - [19. Remove Nth Node From End of List](./Feb_20_2022/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)
 
 - Day 23: Feb 21 2022
+
   - [169. Majority Element](./Feb_21_2022/169.%20Majority%20Element.py)
   - [3. Longest Substring Without Repeating Characters](./Feb_21_2022/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
+
+- Day 24: Feb 22 2022
+  - [171. Excel Sheet Column Number](./Feb_22_2022/171.%20Excel%20Sheet%20Column%20Number.py)
