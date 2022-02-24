@@ -145,3 +145,4 @@
 - Day 26: Feb 24 2022
   - [148. Sort List](./Feb_24_2022/148.%20Sort%20List.py)
   - [542. 01 Matrix](./Feb_24_2022/542.%2001%20Matrix.py)
+  - [994. Rotting Oranges](./Feb_24_2022/994.%20Rotting%20Oranges.py)
