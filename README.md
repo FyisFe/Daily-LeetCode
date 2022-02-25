@@ -143,6 +143,10 @@
   - [116. Populating Next Right Pointers in Each Node](./Feb_23_2022/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)
 
 - Day 26: Feb 24 2022
+
   - [148. Sort List](./Feb_24_2022/148.%20Sort%20List.py)
   - [542. 01 Matrix](./Feb_24_2022/542.%2001%20Matrix.py)
   - [994. Rotting Oranges](./Feb_24_2022/994.%20Rotting%20Oranges.py)
+
+- Day 27: Feb 25 2022
+  - [165. Compare Version Numbers](./Feb_25_2022/165.%20Compare%20Version%20Numbers.py)
