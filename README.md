@@ -153,3 +153,4 @@
   - [21. Merge Two Sorted Lists](./Feb_25_2022/21.%20Merge%20Two%20Sorted%20Lists.py)
   - [206. Reverse Linked List](./Feb_25_2022/206.%20Reverse%20Linked%20List.py)
   - [1523. Count Odd Numbers in an Interval Range](./Feb_25_2022/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py)
+  - [1491. Average Salary Excluding the Minimum and Maximum Salary](./Feb_25_2022/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py)
