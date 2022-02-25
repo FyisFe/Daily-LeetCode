@@ -151,3 +151,4 @@
 - Day 27: Feb 25 2022
   - [165. Compare Version Numbers](./Feb_25_2022/165.%20Compare%20Version%20Numbers.py)
   - [21. Merge Two Sorted Lists](./Feb_25_2022/21.%20Merge%20Two%20Sorted%20Lists.py)
+  - [206. Reverse Linked List](./Feb_25_2022/206.%20Reverse%20Linked%20List.py)
