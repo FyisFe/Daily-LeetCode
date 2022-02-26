@@ -160,3 +160,4 @@
   - [46. Permutations](./Feb_26_2022/46.%20Permutations.py)
   - [784. Letter Case Permutation](./Feb_26_2022/784.%20Letter%20Case%20Permutation.py)
   - [77. Combinations](./Feb_26_2022/77.%20Combinations.py)
+  - [191. Number of 1 Bits](./Feb_26_2022/191.%20Number%20of%201%20Bits.js)
