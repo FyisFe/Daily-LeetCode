@@ -161,3 +161,4 @@
   - [784. Letter Case Permutation](./Feb_26_2022/784.%20Letter%20Case%20Permutation.py)
   - [77. Combinations](./Feb_26_2022/77.%20Combinations.py)
   - [191. Number of 1 Bits](./Feb_26_2022/191.%20Number%20of%201%20Bits.js)
+  - [1281. Subtract the Product and Sum of Digits of an Integer](./Feb_26_2022/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.js)
