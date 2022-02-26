@@ -149,8 +149,12 @@
   - [994. Rotting Oranges](./Feb_24_2022/994.%20Rotting%20Oranges.py)
 
 - Day 27: Feb 25 2022
+
   - [165. Compare Version Numbers](./Feb_25_2022/165.%20Compare%20Version%20Numbers.py)
   - [21. Merge Two Sorted Lists](./Feb_25_2022/21.%20Merge%20Two%20Sorted%20Lists.py)
   - [206. Reverse Linked List](./Feb_25_2022/206.%20Reverse%20Linked%20List.py)
   - [1523. Count Odd Numbers in an Interval Range](./Feb_25_2022/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py)
   - [1491. Average Salary Excluding the Minimum and Maximum Salary](./Feb_25_2022/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py)
+
+- Day 28: Feb 26 2022
+  - [46. Permutations](./Feb_26_2022/46.%20Permutations.py)
