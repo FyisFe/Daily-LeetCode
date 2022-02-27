@@ -166,3 +166,5 @@
 
 - Day 29: Feb 27 2022
   - [662. Maximum Width of Binary Tree](./Feb_27_2022/662.%20Maximum%20Width%20of%20Binary%20Tree.py)
+  - [70. Climbing Stairs](./Feb_27_2022/70.%20Climbing%20Stairs.py)
+  - [120. Triangle](./Feb_27_2022/120.%20Triangle.py)
