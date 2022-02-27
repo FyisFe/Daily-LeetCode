@@ -157,8 +157,12 @@
   - [1491. Average Salary Excluding the Minimum and Maximum Salary](./Feb_25_2022/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py)
 
 - Day 28: Feb 26 2022
+
   - [46. Permutations](./Feb_26_2022/46.%20Permutations.py)
   - [784. Letter Case Permutation](./Feb_26_2022/784.%20Letter%20Case%20Permutation.py)
   - [77. Combinations](./Feb_26_2022/77.%20Combinations.py)
   - [191. Number of 1 Bits](./Feb_26_2022/191.%20Number%20of%201%20Bits.js)
   - [1281. Subtract the Product and Sum of Digits of an Integer](./Feb_26_2022/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.js)
+
+- Day 29: Feb 27 2022
+  - [662. Maximum Width of Binary Tree](./Feb_27_2022/662.%20Maximum%20Width%20of%20Binary%20Tree.py)
