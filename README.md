@@ -170,3 +170,4 @@
   - [120. Triangle](./Feb_27_2022/120.%20Triangle.py)
   - [198. House Robber](./Feb_27_2022/198.%20House%20Robber.py)
   - [976. Largest Perimeter Triangle](./Feb_27_2022/976.%20Largest%20Perimeter%20Triangle.py)
+  - [1779. Find Nearest Point That Has the Same X or Y Coordinate](./Feb_27_2022/1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.py)
