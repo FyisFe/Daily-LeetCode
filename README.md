@@ -176,3 +176,4 @@
 - Day 30: Feb 28 2022
   - [228. Summary Ranges](./Feb_28_2022/228.%20Summary%20Ranges.py)
   - [231. Power of Two](./Feb_28_2022/231.%20Power%20of%20Two.py)
+  - [1822. Sign of the Product of an Array](./Feb_28_2022/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py)
