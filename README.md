@@ -175,3 +175,4 @@
 
 - Day 30: Feb 28 2022
   - [228. Summary Ranges](./Feb_28_2022/228.%20Summary%20Ranges.py)
+  - [231. Power of Two](./Feb_28_2022/231.%20Power%20of%20Two.py)
