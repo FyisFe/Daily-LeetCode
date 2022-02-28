@@ -165,9 +165,13 @@
   - [1281. Subtract the Product and Sum of Digits of an Integer](./Feb_26_2022/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.js)
 
 - Day 29: Feb 27 2022
+
   - [662. Maximum Width of Binary Tree](./Feb_27_2022/662.%20Maximum%20Width%20of%20Binary%20Tree.py)
   - [70. Climbing Stairs](./Feb_27_2022/70.%20Climbing%20Stairs.py)
   - [120. Triangle](./Feb_27_2022/120.%20Triangle.py)
   - [198. House Robber](./Feb_27_2022/198.%20House%20Robber.py)
   - [976. Largest Perimeter Triangle](./Feb_27_2022/976.%20Largest%20Perimeter%20Triangle.py)
   - [1779. Find Nearest Point That Has the Same X or Y Coordinate](./Feb_27_2022/1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.py)
+
+- Day 30: Feb 28 2022
+  - [228. Summary Ranges](./Feb_28_2022/228.%20Summary%20Ranges.py)
