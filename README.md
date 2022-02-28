@@ -179,3 +179,4 @@
   - [1822. Sign of the Product of an Array](./Feb_28_2022/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.py)
   - [1502. Can Make Arithmetic Progression From Sequence](./Feb_28_2022/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py)
   - [202. Happy Number](./Feb_28_2022/202.%20Happy%20Number.py)
+  - [1790. Check if One String Swap Can Make Strings Equal](./Feb_28_2022/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py)
