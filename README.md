@@ -183,5 +183,6 @@
   - [1790. Check if One String Swap Can Make Strings Equal](./Feb_28_2022/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py)
 
 - Day 31: March 1 2022
-  - [338. Counting Bits](./March_01_2022/338.%20Counting%20Bits.py)
-  - [190. Reverse Bits](./March_01_2022/190.%20Reverse%20Bits.py)
+  - [338. Counting Bits](./Mar_01_2022/338.%20Counting%20Bits.py)
+  - [190. Reverse Bits](./Mar_01_2022/190.%20Reverse%20Bits.py)
+  - [496. Next Greater Element I](./Mar_01_2022/496.%20Next%20Greater%20Element%20I.py)
