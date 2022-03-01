@@ -186,3 +186,4 @@
   - [338. Counting Bits](./Mar_01_2022/338.%20Counting%20Bits.py)
   - [190. Reverse Bits](./Mar_01_2022/190.%20Reverse%20Bits.py)
   - [496. Next Greater Element I](./Mar_01_2022/496.%20Next%20Greater%20Element%20I.py)
+  - [1232. Check If It Is a Straight Line](./Mar_01_2022/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py)]
