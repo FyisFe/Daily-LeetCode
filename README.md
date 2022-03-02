@@ -192,3 +192,4 @@
 
 - Day 32: March 2 2022
   - [392. Is Subsequence](./Mar_02_2022/392.%20Is%20Subsequence.py)
+  - [1588. Sum of All Odd Length Subarrays](./Mar_02_2022/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.py)
