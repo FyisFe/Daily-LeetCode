@@ -183,8 +183,12 @@
   - [1790. Check if One String Swap Can Make Strings Equal](./Feb_28_2022/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py)
 
 - Day 31: March 1 2022
+
   - [338. Counting Bits](./Mar_01_2022/338.%20Counting%20Bits.py)
   - [190. Reverse Bits](./Mar_01_2022/190.%20Reverse%20Bits.py)
   - [496. Next Greater Element I](./Mar_01_2022/496.%20Next%20Greater%20Element%20I.py)
   - [1232. Check If It Is a Straight Line](./Mar_01_2022/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py)]
   - [589. N-ary Tree Preorder Traversal](./Mar_01_2022/589.%20N-ary%20Tree%20Preorder%20Traversal.py)]
+
+- Day 32: March 2 2022
+  - [392. Is Subsequence](./Mar_02_2022/392.%20Is%20Subsequence.py)
