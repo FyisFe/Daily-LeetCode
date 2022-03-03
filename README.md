@@ -191,6 +191,10 @@
   - [589. N-ary Tree Preorder Traversal](./Mar_01_2022/589.%20N-ary%20Tree%20Preorder%20Traversal.py)]
 
 - Day 32: March 2 2022
+
   - [392. Is Subsequence](./Mar_02_2022/392.%20Is%20Subsequence.py)
   - [1588. Sum of All Odd Length Subarrays](./Mar_02_2022/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.py)
   - [1672. Richest Customer Wealth](./Mar_02_2022/1672.%20Richest%20Customer%20Wealth.py)
+
+- Day 33: March 3 2022
+  - [413. Arithmetic Slices](./Mar_03_2022/413.%20Arithmetic%20Slices.py)
