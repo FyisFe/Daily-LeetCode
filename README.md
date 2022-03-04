@@ -197,5 +197,10 @@
   - [1672. Richest Customer Wealth](./Mar_02_2022/1672.%20Richest%20Customer%20Wealth.py)
 
 - Day 33: March 3 2022
+
   - [413. Arithmetic Slices](./Mar_03_2022/413.%20Arithmetic%20Slices.py)
-  - [799. Champagne Tower](./Mar_03_2022/799.%20Champagne%20Tower.py)
+
+- Day 34: March 4 2022
+  - [566. Reshape the Matrix](./Mar_04_2022/566.%20Reshape%20the%20Matrix.py)
+  - [799. Champagne Tower](./Mar_04_2022/799.%20Champagne%20Tower.py)
+  - [1572. Matrix Diagonal Sum](./Mar_04_2022/1572.%20Matrix%20Diagonal%20Sum.py)
