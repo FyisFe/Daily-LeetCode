@@ -198,3 +198,4 @@
 
 - Day 33: March 3 2022
   - [413. Arithmetic Slices](./Mar_03_2022/413.%20Arithmetic%20Slices.py)
+  - [799. Champagne Tower](./Mar_03_2022/799.%20Champagne%20Tower.py)
