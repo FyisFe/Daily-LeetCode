@@ -204,3 +204,4 @@
   - [566. Reshape the Matrix](./Mar_04_2022/566.%20Reshape%20the%20Matrix.py)
   - [799. Champagne Tower](./Mar_04_2022/799.%20Champagne%20Tower.py)
   - [1572. Matrix Diagonal Sum](./Mar_04_2022/1572.%20Matrix%20Diagonal%20Sum.py)
+  - [1768. Merge Strings Alternately](./Mar_04_2022/1768.%20Merge%20Strings%20Alternately.py)
