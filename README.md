@@ -201,9 +201,13 @@
   - [413. Arithmetic Slices](./Mar_03_2022/413.%20Arithmetic%20Slices.py)
 
 - Day 34: March 4 2022
+
   - [566. Reshape the Matrix](./Mar_04_2022/566.%20Reshape%20the%20Matrix.py)
   - [799. Champagne Tower](./Mar_04_2022/799.%20Champagne%20Tower.py)
   - [1572. Matrix Diagonal Sum](./Mar_04_2022/1572.%20Matrix%20Diagonal%20Sum.py)
   - [1768. Merge Strings Alternately](./Mar_04_2022/1768.%20Merge%20Strings%20Alternately.py)
   - [1678. Goal Parser Interpretation](./Mar_04_2022/1678.%20Goal%20Parser%20Interpretation.py)
   - [389. Find the Difference](./Mar_04_2022/389.%20Find%20the%20Difference.py)
+
+- Day 35: March 5 2022
+  - [740. Delete and Earn](./Mar_05_2022/740.%20Delete%20and%20Earn.py)
