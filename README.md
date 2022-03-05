@@ -211,3 +211,4 @@
 
 - Day 35: March 5 2022
   - [740. Delete and Earn](./Mar_05_2022/740.%20Delete%20and%20Earn.py)
+  - [709. To Lower Case](./Mar_05_2022/709.%20To%20Lower%20Case.py)
