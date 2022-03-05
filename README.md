@@ -213,3 +213,4 @@
   - [740. Delete and Earn](./Mar_05_2022/740.%20Delete%20and%20Earn.py)
   - [709. To Lower Case](./Mar_05_2022/709.%20To%20Lower%20Case.py)
   - [1309. Decrypt String from Alphabet to Integer Mapping](./Mar_05_2022/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.py)
+  - [953. Verifying an Alien Dictionary](./Mar_05_2022/953.%20Verifying%20an%20Alien%20Dictionary.py)
