@@ -218,3 +218,4 @@
 
 - Day 36: March 6 2022
   - [1359. Count All Valid Pickup and Delivery Options](./Mar_06_2022/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.py)
+  - [1290. Convert Binary Number in a Linked List to Integer](./Mar_06_2022/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py)
