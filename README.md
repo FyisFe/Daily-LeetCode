@@ -210,7 +210,11 @@
   - [389. Find the Difference](./Mar_04_2022/389.%20Find%20the%20Difference.py)
 
 - Day 35: March 5 2022
+
   - [740. Delete and Earn](./Mar_05_2022/740.%20Delete%20and%20Earn.py)
   - [709. To Lower Case](./Mar_05_2022/709.%20To%20Lower%20Case.py)
   - [1309. Decrypt String from Alphabet to Integer Mapping](./Mar_05_2022/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.py)
   - [953. Verifying an Alien Dictionary](./Mar_05_2022/953.%20Verifying%20an%20Alien%20Dictionary.py)
+
+- Day 36: March 6 2022
+  - [1359. Count All Valid Pickup and Delivery Options](./Mar_06_2022/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.py)
