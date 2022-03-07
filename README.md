@@ -226,3 +226,4 @@
   - [1356. Sort Integers by The Number of 1 Bits](./Mar_07_2022/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py)
   - [232. Implement Queue using Stacks](./Mar_07_2022/232.%20Implement%20Queue%20using%20Stacks.py) ]
   - [242. Valid Anagram](./Mar_07_2022/242.%20Valid%20Anagram.py)
+  - [217. Contains Duplicate](./Mar_07_2022/217.%20Contains%20Duplicate.py)
