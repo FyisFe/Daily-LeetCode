@@ -232,3 +232,4 @@
 - Day 38: March 8 2022
   - [141. Linked List Cycle](./Mar_08_2022/141.%20Linked%20List%20Cycle.py)
   - [1603. Design Parking System](./Mar_08_2022/1603.%20Design%20Parking%20System.py)
+  - [303. Range Sum Query - Immutable](./Mar_08_2022/303.%20Range%20Sum%20Query%20-%20Immutable.py)
