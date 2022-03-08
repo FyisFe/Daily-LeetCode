@@ -223,7 +223,11 @@
   - [404. Sum of Left Leaves](./Mar_06_2022/404.%20Sum%20of%20Left%20Leaves.py)
 
 - Day 37: March 7 2022
+
   - [1356. Sort Integers by The Number of 1 Bits](./Mar_07_2022/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py)
   - [232. Implement Queue using Stacks](./Mar_07_2022/232.%20Implement%20Queue%20using%20Stacks.py) ]
   - [242. Valid Anagram](./Mar_07_2022/242.%20Valid%20Anagram.py)
   - [217. Contains Duplicate](./Mar_07_2022/217.%20Contains%20Duplicate.py)
+
+- Day 38: March 8 2022
+  - [141. Linked List Cycle](./Mar_08_2022/141.%20Linked%20List%20Cycle.py)
