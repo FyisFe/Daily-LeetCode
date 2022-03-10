@@ -247,3 +247,4 @@
 - Day 40: March 10 2022
   - [2. Add Two Numbers](./Mar_10_2022/2.%20Add%20Two%20Numbers.py)
   - [844. Backspace String Compare](./Mar_10_2022/844.%20Backspace%20String%20Compare.py)
+  - [986. Interval List Intersections](./Mar_10_2022/986.%20Interval%20List%20Intersections.py)
