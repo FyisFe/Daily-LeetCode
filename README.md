@@ -239,6 +239,10 @@
   - [74. Search a 2D Matrix](./Mar_08_2022/74.%20Search%20a%202D%20Matrix.py)
 
 - Day 39: March 9 2022
+
   - [82. Remove Duplicates from Sorted List II](./Mar_09_2022/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.py)
   - [153. Find Minimum in Rotated Sorted Array](./Mar_09_2022/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py)
   - [162. Find Peak Element](./Mar_09_2022/162.%20Find%20Peak%20Element.py)
+
+- Day 40: March 10 2022
+  - [2. Add Two Numbers](./Mar_10_2022/2.%20Add%20Two%20Numbers.py)
