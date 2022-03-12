@@ -252,6 +252,10 @@
   - [11. Container With Most Water](./Mar_10_2022/11.%20Container%20With%20Most%20Water.py)
 
 - Day 41: March 11 2022
+
   - [713. Subarray Product Less Than K](./Mar_11_2022/713.%20Subarray%20Product%20Less%20Than%20K.py)
   - [61. Rotate List](./Mar_11_2022/61.%20Rotate%20List.py)
   - [713. Subarray Product Less Than K](./Mar_11_2022/713.%20Subarray%20Product%20Less%20Than%20K.py)
+
+- Day 42: March 12 2022
+  - [138. Copy List with Random Pointer](./Mar_12_2022/138.%20Copy%20List%20with%20Random%20Pointer.py)
