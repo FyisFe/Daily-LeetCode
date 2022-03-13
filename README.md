@@ -258,6 +258,10 @@
   - [713. Subarray Product Less Than K](./Mar_11_2022/713.%20Subarray%20Product%20Less%20Than%20K.py)
 
 - Day 42: March 12 2022
+
   - [138. Copy List with Random Pointer](./Mar_12_2022/138.%20Copy%20List%20with%20Random%20Pointer.py)
   - [200. Number of Islands](./Mar_12_2022/200.%20Number%20of%20Islands.py)
   - [547. Number of Provinces](./Mar_12_2022/547.%20Number%20of%20Provinces.py)
+
+- Day 43: March 13 2022
+  - [20. Valid Parentheses](./Mar_13_2022/20.%20Valid%20Parentheses.py)
