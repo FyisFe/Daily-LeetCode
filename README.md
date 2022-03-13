@@ -265,3 +265,4 @@
 
 - Day 43: March 13 2022
   - [20. Valid Parentheses](./Mar_13_2022/20.%20Valid%20Parentheses.py)
+  - [572. Subtree of Another Tree](./Mar_13_2022/572.%20Subtree%20of%20Another%20Tree.py)
