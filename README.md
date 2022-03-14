@@ -264,6 +264,10 @@
   - [547. Number of Provinces](./Mar_12_2022/547.%20Number%20of%20Provinces.py)
 
 - Day 43: March 13 2022
+
   - [20. Valid Parentheses](./Mar_13_2022/20.%20Valid%20Parentheses.py)
   - [572. Subtree of Another Tree](./Mar_13_2022/572.%20Subtree%20of%20Another%20Tree.py)
   - [117. Populating Next Right Pointers in Each Node II](./Mar_13_2022/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.py)
+
+- Day 44: March 14 2022
+  - [71. Simplify Path](./Mar_14_2022/71.%20Simplify%20Path.py)
