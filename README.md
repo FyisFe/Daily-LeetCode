@@ -271,3 +271,4 @@
 
 - Day 44: March 14 2022
   - [71. Simplify Path](./Mar_14_2022/71.%20Simplify%20Path.py)
+  - [1091. Shortest Path in Binary Matrix](./Mar_14_2022/1091.%20Shortest%20Path%20in%20Binary%20Matrix.py)
