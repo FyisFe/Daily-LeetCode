@@ -270,6 +270,10 @@
   - [117. Populating Next Right Pointers in Each Node II](./Mar_13_2022/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.py)
 
 - Day 44: March 14 2022
+
   - [71. Simplify Path](./Mar_14_2022/71.%20Simplify%20Path.py)
   - [1091. Shortest Path in Binary Matrix](./Mar_14_2022/1091.%20Shortest%20Path%20in%20Binary%20Matrix.py)
   - [130. Surrounded Regions](./Mar_14_2022/130.%20Surrounded%20Regions.py)
+
+- Day 45: March 15 2022
+  - [1249. Minimum Remove to Make Valid Parentheses](./Mar_15_2022/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.py)
