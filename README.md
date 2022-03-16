@@ -283,3 +283,4 @@
   - [797. All Paths From Source to Target](./Mar_16_2022/797.%20All%20Paths%20From%20Source%20to%20Target.py)
   - [90. Subsets II](./Mar_16_2022/90.%20Subsets%20II.py)
   - [946. Validate Stack Sequences](./Mar_16_2022/946.%20Validate%20Stack%20Sequences.py)
+  - [47. Permutations II](./Mar_16_2022/47.%20Permutations%20II.py)
