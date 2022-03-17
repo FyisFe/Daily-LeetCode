@@ -288,5 +288,9 @@
   - [40. Combination Sum II](./Mar_16_2022/40.%20Combination%20Sum%20II.py)
 
 - Day 47: March 17 2022
+
   - [856. Score of Parentheses](./Mar_17_2022/856.%20Score%20of%20Parentheses.py)
   - [17. Letter Combinations of a Phone Number](./Mar_17_2022/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)
+
+- Day 48: March 18 2022
+  - [79. Word Search](./Mar_18_2022/79.%20Word%20Search.py)
