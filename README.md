@@ -301,5 +301,9 @@
   - [213. House Robber II](./Mar_18_2022/213.%20House%20Robber%20II.py)
 
 - Day 49: March 19 2022
+
   - [102. Binary Tree Level Order Traversal](./Mar_19_2022/102.%20Binary%20Tree%20Level%20Order%20Traversal.py)
   - [103. Binary Tree Zigzag Level Order Traversal](./Mar_19_2022/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py)
+
+- Day 50: March 20 2022
+  - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Mar_20_2022/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)
