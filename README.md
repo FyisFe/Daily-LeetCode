@@ -302,3 +302,4 @@
 
 - Day 49: March 19 2022
   - [102. Binary Tree Level Order Traversal](./Mar_19_2022/102.%20Binary%20Tree%20Level%20Order%20Traversal.py)
+  - [103. Binary Tree Zigzag Level Order Traversal](./Mar_19_2022/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py)
