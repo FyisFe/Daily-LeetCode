@@ -307,3 +307,4 @@
 
 - Day 50: March 20 2022
   - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Mar_20_2022/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)
+  - [106. Construct Binary Tree from Inorder and Postorder Traversal](./Mar_20_2022/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py)
