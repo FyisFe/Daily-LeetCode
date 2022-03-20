@@ -306,7 +306,11 @@
   - [103. Binary Tree Zigzag Level Order Traversal](./Mar_19_2022/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py)
 
 - Day 50: March 20 2022
+
   - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Mar_20_2022/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)
   - [106. Construct Binary Tree from Inorder and Postorder Traversal](./Mar_20_2022/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py)
   - [107. Binary Tree Level Order Traversal II](./Mar_20_2022/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.py)
   - [1007. Minimum Domino Rotations For Equal Row](./Mar_20_2022/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.py)
+
+- Day 51: March 21 2022
+  - [109. Convert Sorted List to Binary Search Tree](./Mar_21_2022/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.py)
