@@ -24,4 +24,4 @@ class Solution:
             ans.append(tmp)
             que = new_que
 
-        return reversed(ans)
+        return ans
