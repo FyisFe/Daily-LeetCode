@@ -331,3 +331,4 @@
   - [199. Binary Tree Right Side View](./Mar_23_2022/199.%20Binary%20Tree%20Right%20Side%20View.py)
   - [222. Count Complete Tree Nodes](./Mar_23_2022/222.%20Count%20Complete%20Tree%20Nodes.py)
   - [226. Invert Binary Tree](./Mar_23_2022/226.%20Invert%20Binary%20Tree.py)
+  - [230. Kth Smallest Element in a BST](./Mar_23_2022/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py)
