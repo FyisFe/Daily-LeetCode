@@ -10,15 +10,23 @@ class Solution:
         if not root:
             return ans
 
-        que = [root]
-        while que:
-            new_que = []
-            for i in que:
+        def countLeftHeight(node):
+            ans = 0
+            while node:
                 ans += 1
-                if i.left:
-                    new_que.append(i.left)
-                if i.right:
-                    new_que.append(i.right)
-            que = new_que
+                node = node.left
+            return ans
 
-        return ans
+        def countRightHeight(node):
+            ans = 0
+            while node:
+                ans += 1
+                node = node.right
+            return ans
+
+        lh = countLeftHeight(root)
+        rh = countRightHeight(root)
+        if lh == rh:
+            return 2**lh - 1
+
+        return 1 + self.countNodes(root.left) + self.countNodes(root.right)
