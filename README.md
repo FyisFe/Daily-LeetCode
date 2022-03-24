@@ -342,3 +342,4 @@
   - [236. Lowest Common Ancestor of a Binary Tree](./Mar_24_2022/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)
   - [257. Binary Tree Paths](./Mar_24_2022/257.%20Binary%20Tree%20Paths.py)
   - [331. Verify Preorder Serialization of a Binary Tree](./Mar_24_2022/331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.py)
+  - [341. Flatten Nested List Iterator](./Mar_24_2022/341.%20Flatten%20Nested%20List%20Iterator.py)
