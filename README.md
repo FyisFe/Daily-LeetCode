@@ -339,3 +339,4 @@
 - Day 54: March 24 2022
   - [881. Boats to Save People](./Mar_24_2022/881.%20Boats%20to%20Save%20People.py)
   - [235. Lowest Common Ancestor of a Binary Search Tree](./Mar_24_2022/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py)
+  - [236. Lowest Common Ancestor of a Binary Tree](./Mar_24_2022/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)
