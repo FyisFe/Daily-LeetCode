@@ -357,3 +357,4 @@
   - [67. Add Binary](./Mar_25_2022/67.%20Add%20Binary.py)
   - [415. Add Strings](./Mar_25_2022/415.%20Add%20Strings.py)
   - [989. Add to Array-Form of Integer](./Mar_25_2022/989.%20Add%20to%20Array-Form%20of%20Integer.py)
+  - [43. Multiply Strings](./Mar_25_2022/43.%20Multiply%20Strings.py)
