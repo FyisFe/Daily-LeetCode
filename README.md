@@ -337,6 +337,7 @@
   - [28. Implement strStr()](./Mar_23_2022/28.%20Implement%20strStr.py)
 
 - Day 54: March 24 2022
+
   - [881. Boats to Save People](./Mar_24_2022/881.%20Boats%20to%20Save%20People.py)
   - [235. Lowest Common Ancestor of a Binary Search Tree](./Mar_24_2022/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py)
   - [236. Lowest Common Ancestor of a Binary Tree](./Mar_24_2022/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)
@@ -347,3 +348,7 @@
   - [451. Sort Characters By Frequency](./Mar_24_2022/451.%20Sort%20Characters%20By%20Frequency.py)
   - [692. Top K Frequent Words](./Mar_24_2022/692.%20Top%20K%20Frequent%20Words.py)
   - [451. Sort Characters By Frequency](./Mar_24_2022/451.%20Sort%20Characters%20By%20Frequency.py)
+
+- Day 55: March 25 2022
+  - [1029. Two City Scheduling](./Mar_25_2022/1029.%20Two%20City%20Scheduling.py)
+  - [1143. Longest Common Subsequence](./Mar_25_2022/1143.%20Longest%20Common%20Subsequence.py)
