@@ -353,3 +353,4 @@
   - [1029. Two City Scheduling](./Mar_25_2022/1029.%20Two%20City%20Scheduling.py)
   - [1143. Longest Common Subsequence](./Mar_25_2022/1143.%20Longest%20Common%20Subsequence.py)
   - [718. Maximum Length of Repeated Subarray](./Mar_25_2022/718.%20Maximum%20Length%20of%20Repeated%20Subarray.py)
+- [66. Plus One](./Mar_25_2022/66.%20Plus%20One.py)
