@@ -350,6 +350,7 @@
   - [451. Sort Characters By Frequency](./Mar_24_2022/451.%20Sort%20Characters%20By%20Frequency.py)
 
 - Day 55: March 25 2022
+
   - [1029. Two City Scheduling](./Mar_25_2022/1029.%20Two%20City%20Scheduling.py)
   - [1143. Longest Common Subsequence](./Mar_25_2022/1143.%20Longest%20Common%20Subsequence.py)
   - [718. Maximum Length of Repeated Subarray](./Mar_25_2022/718.%20Maximum%20Length%20of%20Repeated%20Subarray.py)
@@ -358,3 +359,6 @@
   - [415. Add Strings](./Mar_25_2022/415.%20Add%20Strings.py)
   - [989. Add to Array-Form of Integer](./Mar_25_2022/989.%20Add%20to%20Array-Form%20of%20Integer.py)
   - [43. Multiply Strings](./Mar_25_2022/43.%20Multiply%20Strings.py)
+
+- Day 56: March 26 2022
+  - [279. Perfect Squares](./Mar_26_2022/279.%20Perfect%20Squares.py)
