@@ -362,3 +362,4 @@
 
 - Day 56: March 26 2022
   - [279. Perfect Squares](./Mar_26_2022/279.%20Perfect%20Squares.py)
+  - [75. Sort Colors](./Mar_26_2022/75.%20Sort%20Colors.py)
