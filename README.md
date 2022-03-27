@@ -361,6 +361,10 @@
   - [43. Multiply Strings](./Mar_25_2022/43.%20Multiply%20Strings.py)
 
 - Day 56: March 26 2022
+
   - [279. Perfect Squares](./Mar_26_2022/279.%20Perfect%20Squares.py)
   - [75. Sort Colors](./Mar_26_2022/75.%20Sort%20Colors.py)
   - [128. Longest Consecutive Sequence](./Mar_26_2022/128.%20Longest%20Consecutive%20Sequence.py)
+
+- Day 57: March 27 2022
+  - [1337. The K Weakest Rows in a Matrix](./Mar_27_2022/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)
