@@ -374,3 +374,4 @@
   - [81. Search in Rotated Sorted Array II](./Mar_28_2022/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.py)
   - [684. Redundant Connection](./Mar_28_2022/684.%20Redundant%20Connection.py)
   - [1020. Number of Enclaves](./Mar_28_2022/1020.%20Number%20of%20Enclaves.py)
+  - [990. Satisfiability of Equality Equations](./Mar_28_2022/990.%20Satisfiability%20of%20Equality%20Equations.py)
