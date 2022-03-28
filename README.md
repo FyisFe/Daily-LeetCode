@@ -372,3 +372,4 @@
 
 - Day 58: March 28 2022
   - [81. Search in Rotated Sorted Array II](./Mar_28_2022/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.py)
+  - [684. Redundant Connection](./Mar_28_2022/684.%20Redundant%20Connection.py)
