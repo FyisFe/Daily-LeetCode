@@ -371,6 +371,7 @@
   - [1337. The K Weakest Rows in a Matrix](./Mar_27_2022/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)
 
 - Day 58: March 28 2022
+
   - [81. Search in Rotated Sorted Array II](./Mar_28_2022/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.py)
   - [684. Redundant Connection](./Mar_28_2022/684.%20Redundant%20Connection.py)
   - [1020. Number of Enclaves](./Mar_28_2022/1020.%20Number%20of%20Enclaves.py)
@@ -378,3 +379,6 @@
   - [187. Repeated DNA Sequences](./Mar_28_2022/187.%20Repeated%20DNA%20Sequences.py)
   - [142. Linked List Cycle II](./Mar_28_2022/142.%20Linked%20List%20Cycle%20II.py)
   - [229. Majority Element II](./Mar_28_2022/229.%20Majority%20Element%20II.py)
+
+- Day 59: March 29 2022
+  - [169. Majority Element](./Mar_29_2022/169.%20Majority%20Element.py)
