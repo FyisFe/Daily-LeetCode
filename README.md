@@ -381,6 +381,10 @@
   - [229. Majority Element II](./Mar_28_2022/229.%20Majority%20Element%20II.py)
 
 - Day 59: March 29 2022
+
   - [169. Majority Element](./Mar_29_2022/169.%20Majority%20Element.py)
   - [229. Majority Element II](./Mar_29_2022/229.%20Majority%20Element%20II.py)
   - [287. Find the Duplicate Number](./Mar_29_2022/287.%20Find%20the%20Duplicate%20Number.py)
+
+- Day 60: March 30 2022
+  - [74. Search a 2D Matrix](./Mar_30_2022/74.%20Search%20a%202D%20Matrix.py)
