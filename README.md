@@ -392,3 +392,4 @@
 
 - Day 61: March 31 2022
   - [704. Binary Search](./Mar_31_2022/704.%20Binary%20Search.py)
+  - [374. Guess Number Higher or Lower](./Mar_31_2022/374.%20Guess%20Number%20Higher%20or%20Lower.py)
