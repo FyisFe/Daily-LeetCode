@@ -387,4 +387,8 @@
   - [287. Find the Duplicate Number](./Mar_29_2022/287.%20Find%20the%20Duplicate%20Number.py)
 
 - Day 60: March 30 2022
+
   - [74. Search a 2D Matrix](./Mar_30_2022/74.%20Search%20a%202D%20Matrix.py)
+
+- Day 61: March 31 2022
+  - [704. Binary Search](./Mar_31_2022/704.%20Binary%20Search.py)
