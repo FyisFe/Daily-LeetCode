@@ -391,6 +391,10 @@
   - [74. Search a 2D Matrix](./Mar_30_2022/74.%20Search%20a%202D%20Matrix.py)
 
 - Day 61: March 31 2022
+
   - [704. Binary Search](./Mar_31_2022/704.%20Binary%20Search.py)
   - [374. Guess Number Higher or Lower](./Mar_31_2022/374.%20Guess%20Number%20Higher%20or%20Lower.py)
   - [15. 3Sum](./Mar_31_2022/15.%203Sum.py)
+
+- Day 62: April 1 2022
+  - [1584. Min Cost to Connect All Points](./Apr_01_2022/1584.%20Min%20Cost%20to%20Connect%20All%20Points.py)
