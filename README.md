@@ -397,5 +397,5 @@
   - [15. 3Sum](./Mar_31_2022/15.%203Sum.py)
 
 - Day 62: April 1 2022
-  - [1584. Min Cost to Connect All Points](./Apr_01_2022/1584.%20Min%20Cost%20to%20Connect%20All%20Points.py)
+  - [1584. Min Cost to Connect All Points](./Mar_31_2022/1584.%20Min%20Cost%20to%20Connect%20All%20Points.py)
   - [344. Reverse String](./Apr_01_2022/344.%20Reverse%20String.py)
