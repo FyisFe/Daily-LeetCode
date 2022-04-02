@@ -397,7 +397,11 @@
   - [15. 3Sum](./Mar_31_2022/15.%203Sum.py)
 
 - Day 62: April 1 2022
+
   - [1584. Min Cost to Connect All Points](./Mar_31_2022/1584.%20Min%20Cost%20to%20Connect%20All%20Points.py)
   - [344. Reverse String](./Apr_01_2022/344.%20Reverse%20String.py)
   - [35. Search Insert Position](./Apr_01_2022/35.%20Search%20Insert%20Position.py)
   - [852. Peak Index in a Mountain Array](./Apr_01_2022/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
+
+- Day 63: April 2 2022
+  - [680. Valid Palindrome II](./Apr_02_2022/680.%20Valid%20Palindrome%20II.py)
