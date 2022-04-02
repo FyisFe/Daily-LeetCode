@@ -405,3 +405,4 @@
 
 - Day 63: April 2 2022
   - [680. Valid Palindrome II](./Apr_02_2022/680.%20Valid%20Palindrome%20II.py)
+  - [367. Valid Perfect Square](./Apr_02_2022/367.%20Valid%20Perfect%20Square.py)
