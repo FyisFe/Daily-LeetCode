@@ -413,3 +413,5 @@
   - [53. Maximum Subarray](./Apr_02_2022/53.%20Maximum%20Subarray.py)
 
 - Day 64: April 3 2022
+  - [1. Two Sum](./Apr_03_2022/1.%20Two%20Sum.py)
+  - [69. Sqrt(x)](<./Apr_03_2022/69.%20Sqrt(x).py>)
