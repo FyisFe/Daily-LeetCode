@@ -404,9 +404,12 @@
   - [852. Peak Index in a Mountain Array](./Apr_01_2022/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 
 - Day 63: April 2 2022
+
   - [680. Valid Palindrome II](./Apr_02_2022/680.%20Valid%20Palindrome%20II.py)
   - [367. Valid Perfect Square](./Apr_02_2022/367.%20Valid%20Perfect%20Square.py)
   - [1337. The K Weakest Rows in a Matrix](./Apr_02_2022/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)
   - [6033. Minimum Bit Flips to Convert Number](./Apr_02_2022/6033.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.py)
   - [6034. Find Triangular Sum of an Array](./Apr_02_2022/6034.%20Find%20Triangular%20Sum%20of%20an%20Array.py)
   - [53. Maximum Subarray](./Apr_02_2022/53.%20Maximum%20Subarray.py)
+
+- Day 64: April 3 2022
