@@ -416,3 +416,4 @@
   - [1. Two Sum](./Apr_03_2022/1.%20Two%20Sum.py)
   - [69. Sqrt(x)](<./Apr_03_2022/69.%20Sqrt(x).py>)
   - [744. Find Smallest Letter Greater Than Target](./Apr_03_2022/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)
+  - [88. Merge Sorted Array](./Apr_03_2022/88.%20Merge%20Sorted%20Array.py)
