@@ -426,3 +426,4 @@
   - [350. Intersection of Two Arrays II](./Apr_04_2022/350.%20Intersection%20of%20Two%20Arrays%20II.py)
   - [121. Best Time to Buy and Sell Stock](./Apr_04_2022/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
   - [1087. Brace Expansion](./Apr_04_2022/1087.%20Brace%20Expansion.py)
+  - [16. 3Sum Closest](./Apr_04_2022/16.%203Sum%20Closest.py)
