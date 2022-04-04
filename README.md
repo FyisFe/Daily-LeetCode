@@ -421,3 +421,4 @@
 
 - Day 65: April 4 2022
   - [1721. Swapping Nodes in a Linked List](./Apr_04_2022/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py)
+  - [278. First Bad Version](./Apr_04_2022/278.%20First%20Bad%20Version.py)
