@@ -431,3 +431,4 @@
 
 - Day 66: April 5 2022
   - [118. Pascal's Triangle](./Apr_05_2022/118.%20Pascal%27s%20Triangle.py)
+  - [1539. Kth Missing Positive Number](./Apr_05_2022/1539.%20Kth%20Missing%20Positive%20Number.py)
