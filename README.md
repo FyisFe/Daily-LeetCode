@@ -420,6 +420,7 @@
   - [88. Merge Sorted Array](./Apr_03_2022/88.%20Merge%20Sorted%20Array.py)
 
 - Day 65: April 4 2022
+
   - [1721. Swapping Nodes in a Linked List](./Apr_04_2022/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py)
   - [278. First Bad Version](./Apr_04_2022/278.%20First%20Bad%20Version.py)
   - [34. Find First and Last Position of Element in Sorted Array](./Apr_04_2022/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)
@@ -427,3 +428,6 @@
   - [121. Best Time to Buy and Sell Stock](./Apr_04_2022/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
   - [1087. Brace Expansion](./Apr_04_2022/1087.%20Brace%20Expansion.py)
   - [16. 3Sum Closest](./Apr_04_2022/16.%203Sum%20Closest.py)
+
+- Day 66: April 5 2022
+  - [118. Pascal's Triangle](./Apr_05_2022/118.%20Pascal%27s%20Triangle.py)
