@@ -430,6 +430,11 @@
   - [16. 3Sum Closest](./Apr_04_2022/16.%203Sum%20Closest.py)
 
 - Day 66: April 5 2022
+
   - [118. Pascal's Triangle](./Apr_05_2022/118.%20Pascal%27s%20Triangle.py)
   - [1539. Kth Missing Positive Number](./Apr_05_2022/1539.%20Kth%20Missing%20Positive%20Number.py)
   - [441. Arranging Coins](./Apr_05_2022/441.%20Arranging%20Coins.py)
+
+- Day 67: April 6 2022
+  - [923. 3Sum With Multiplicity](./Apr_05_2022/923.%203Sum%20With%20Multiplicity.py)
+  - [167. Two Sum II - Input array is sorted](./Apr_05_2022/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)
