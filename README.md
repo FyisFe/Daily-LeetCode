@@ -439,3 +439,4 @@
   - [923. 3Sum With Multiplicity](./Apr_05_2022/923.%203Sum%20With%20Multiplicity.py)
   - [167. Two Sum II - Input array is sorted](./Apr_05_2022/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)
   - [1608. Special Array With X Elements Greater Than or Equal X](./Apr_05_2022/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.py)
+  - [36. Valid Sudoku](./Apr_05_2022/36.%20Valid%20Sudoku.py)
