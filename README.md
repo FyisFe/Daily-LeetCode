@@ -436,6 +436,7 @@
   - [441. Arranging Coins](./Apr_05_2022/441.%20Arranging%20Coins.py)
 
 - Day 67: April 6 2022
+
   - [923. 3Sum With Multiplicity](./Apr_05_2022/923.%203Sum%20With%20Multiplicity.py)
   - [167. Two Sum II - Input array is sorted](./Apr_05_2022/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)
   - [1608. Special Array With X Elements Greater Than or Equal X](./Apr_05_2022/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.py)
@@ -445,3 +446,6 @@
   - [1135. Connecting Cities With Minimum Cost](./Apr_05_2022/1135.%20Connecting%20Cities%20With%20Minimum%20Cost.py)
   - [1137. N-th Tribonacci Number](./Apr_05_2022/1137.%20N-th%20Tribonacci%20Number.py)
   - [1124. Longest Well-Performing Interval](./Apr_05_2022/1124.%20Longest%20Well-Performing%20Interval.py)
+
+- Day 68: April 7 2022
+  - [1046. Last Stone Weight](./Apr_07_2022/1046.%20Last%20Stone%20Weight.py)
