@@ -454,3 +454,4 @@
   - [242. Valid Anagram](./Apr_07_2022/242.%20Valid%20Anagram.py)
   - [383. Ransom Note](./Apr_07_2022/383.%20Ransom%20Note.py)
   - [70. Climbing Stairs](./Apr_07_2022/70.%20Climbing%20Stairs.py)
+  - [746. Min Cost Climbing Stairs](./Apr_07_2022/746.%20Min%20Cost%20Climbing%20Stairs.py)
