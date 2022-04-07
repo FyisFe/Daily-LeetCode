@@ -450,3 +450,4 @@
 - Day 68: April 7 2022
   - [1046. Last Stone Weight](./Apr_07_2022/1046.%20Last%20Stone%20Weight.py)
   - [387. First Unique Character in a String](./Apr_07_2022/387.%20First%20Unique%20Character%20in%20a%20String.py)
+  - [1351. Count Negative Numbers in a Sorted Matrix](./Apr_07_2022/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py)
