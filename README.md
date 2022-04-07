@@ -456,3 +456,4 @@
   - [70. Climbing Stairs](./Apr_07_2022/70.%20Climbing%20Stairs.py)
   - [746. Min Cost Climbing Stairs](./Apr_07_2022/746.%20Min%20Cost%20Climbing%20Stairs.py)
   - [31. Next Permutation](./Apr_07_2022/31.%20Next%20Permutation.py)
+  - [1680. Concatenation of Consecutive Binary Numbers](./Apr_07_2022/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.py)
