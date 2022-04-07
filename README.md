@@ -452,3 +452,4 @@
   - [387. First Unique Character in a String](./Apr_07_2022/387.%20First%20Unique%20Character%20in%20a%20String.py)
   - [1351. Count Negative Numbers in a Sorted Matrix](./Apr_07_2022/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py)
   - [242. Valid Anagram](./Apr_07_2022/242.%20Valid%20Anagram.py)
+  - [383. Ransom Note](./Apr_07_2022/383.%20Ransom%20Note.py)
