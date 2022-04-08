@@ -465,3 +465,4 @@
   - [1346. Check If N and Its Double Exist](./Apr_08_2022/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py)
   - [21. Merge Two Sorted Lists](./Apr_08_2022/21.%20Merge%20Two%20Sorted%20Lists.py)
   - [141. Linked List Cycle](./Apr_08_2022/141.%20Linked%20List%20Cycle.py)
+  - [203. Remove Linked List Elements](./Apr_08_2022/203.%20Remove%20Linked%20List%20Elements.py)
