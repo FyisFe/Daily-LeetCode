@@ -7,3 +7,5 @@ class Solution:
 
         for i in range(2, len(nums)):
             dp[i] = max(nums[i] + dp[i - 2], dp[i - 1])
+
+        return dp[-1]
