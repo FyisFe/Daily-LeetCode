@@ -448,6 +448,7 @@
   - [1124. Longest Well-Performing Interval](./Apr_05_2022/1124.%20Longest%20Well-Performing%20Interval.py)
 
 - Day 68: April 7 2022
+
   - [1046. Last Stone Weight](./Apr_07_2022/1046.%20Last%20Stone%20Weight.py)
   - [387. First Unique Character in a String](./Apr_07_2022/387.%20First%20Unique%20Character%20in%20a%20String.py)
   - [1351. Count Negative Numbers in a Sorted Matrix](./Apr_07_2022/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py)
@@ -457,3 +458,6 @@
   - [746. Min Cost Climbing Stairs](./Apr_07_2022/746.%20Min%20Cost%20Climbing%20Stairs.py)
   - [31. Next Permutation](./Apr_07_2022/31.%20Next%20Permutation.py)
   - [1680. Concatenation of Consecutive Binary Numbers](./Apr_07_2022/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.py)
+
+- Day 69: April 8 2022
+  - [703. Kth Largest Element in a Stream](./Apr_08_2022/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)
