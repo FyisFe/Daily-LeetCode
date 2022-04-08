@@ -462,3 +462,4 @@
 - Day 69: April 8 2022
   - [703. Kth Largest Element in a Stream](./Apr_08_2022/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)
   - [1337. The K Weakest Rows in a Matrix](./Apr_08_2022/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)
+  - [1346. Check If N and Its Double Exist](./Apr_08_2022/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py)
