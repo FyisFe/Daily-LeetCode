@@ -468,3 +468,4 @@
   - [203. Remove Linked List Elements](./Apr_08_2022/203.%20Remove%20Linked%20List%20Elements.py)
   - [198. House Robber](./Apr_08_2022/198.%20House%20Robber.py)
   - [213. House Robber II](./Apr_08_2022/213.%20House%20Robber%20II.py)
+  - [740. Delete and Earn](./Apr_08_2022/740.%20Delete%20and%20Earn.py)
