@@ -476,3 +476,4 @@
   - [350. Intersection of Two Arrays II](./Apr_09_2022/350.%20Intersection%20of%20Two%20Arrays%20III.py)
   - [633. Sum of Square Numbers](./Apr_09_2022/633.%20Sum%20of%20Square%20Numbers.py)
   - [206. Reverse Linked List](./Apr_09_2022/206.%20Reverse%20Linked%20List.py)
+  - [83. Remove Duplicates from Sorted List](./Apr_09_2022/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)
