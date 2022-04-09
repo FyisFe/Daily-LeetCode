@@ -473,3 +473,4 @@
 
 - Day 70: April 9 2022
   - [347. Top K Frequent Elements](./Apr_09_2022/347.%20Top%20K%20Frequent%20Elements.py)
+  - [350. Intersection of Two Arrays II](./Apr_09_2022/350.%20Intersection%20of%20Two%20Arrays%20III.py)
