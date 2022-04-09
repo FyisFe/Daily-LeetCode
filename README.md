@@ -430,6 +430,42 @@
   - [16. 3Sum Closest](./Apr_04_2022/16.%203Sum%20Closest.py)
 
 - Day 66: April 5 2022
+
   - [118. Pascal's Triangle](./Apr_05_2022/118.%20Pascal%27s%20Triangle.py)
   - [1539. Kth Missing Positive Number](./Apr_05_2022/1539.%20Kth%20Missing%20Positive%20Number.py)
   - [441. Arranging Coins](./Apr_05_2022/441.%20Arranging%20Coins.py)
+
+- Day 67: April 6 2022
+
+  - [923. 3Sum With Multiplicity](./Apr_05_2022/923.%203Sum%20With%20Multiplicity.py)
+  - [167. Two Sum II - Input array is sorted](./Apr_05_2022/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)
+  - [1608. Special Array With X Elements Greater Than or Equal X](./Apr_05_2022/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.py)
+  - [36. Valid Sudoku](./Apr_05_2022/36.%20Valid%20Sudoku.py)
+  - [74. Search a 2D Matrix](./Apr_05_2022/74.%20Search%20a%202D%20Matrix.py)
+  - [509. Fibonacci Number](./Apr_05_2022/509.%20Fibonacci%20Number.py)
+  - [1135. Connecting Cities With Minimum Cost](./Apr_05_2022/1135.%20Connecting%20Cities%20With%20Minimum%20Cost.py)
+  - [1137. N-th Tribonacci Number](./Apr_05_2022/1137.%20N-th%20Tribonacci%20Number.py)
+  - [1124. Longest Well-Performing Interval](./Apr_05_2022/1124.%20Longest%20Well-Performing%20Interval.py)
+
+- Day 68: April 7 2022
+
+  - [1046. Last Stone Weight](./Apr_07_2022/1046.%20Last%20Stone%20Weight.py)
+  - [387. First Unique Character in a String](./Apr_07_2022/387.%20First%20Unique%20Character%20in%20a%20String.py)
+  - [1351. Count Negative Numbers in a Sorted Matrix](./Apr_07_2022/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py)
+  - [242. Valid Anagram](./Apr_07_2022/242.%20Valid%20Anagram.py)
+  - [383. Ransom Note](./Apr_07_2022/383.%20Ransom%20Note.py)
+  - [70. Climbing Stairs](./Apr_07_2022/70.%20Climbing%20Stairs.py)
+  - [746. Min Cost Climbing Stairs](./Apr_07_2022/746.%20Min%20Cost%20Climbing%20Stairs.py)
+  - [31. Next Permutation](./Apr_07_2022/31.%20Next%20Permutation.py)
+  - [1680. Concatenation of Consecutive Binary Numbers](./Apr_07_2022/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.py)
+
+- Day 69: April 8 2022
+  - [703. Kth Largest Element in a Stream](./Apr_08_2022/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)
+  - [1337. The K Weakest Rows in a Matrix](./Apr_08_2022/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)
+  - [1346. Check If N and Its Double Exist](./Apr_08_2022/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py)
+  - [21. Merge Two Sorted Lists](./Apr_08_2022/21.%20Merge%20Two%20Sorted%20Lists.py)
+  - [141. Linked List Cycle](./Apr_08_2022/141.%20Linked%20List%20Cycle.py)
+  - [203. Remove Linked List Elements](./Apr_08_2022/203.%20Remove%20Linked%20List%20Elements.py)
+  - [198. House Robber](./Apr_08_2022/198.%20House%20Robber.py)
+  - [213. House Robber II](./Apr_08_2022/213.%20House%20Robber%20II.py)
+  - [740. Delete and Earn](./Apr_08_2022/740.%20Delete%20and%20Earn.py)
