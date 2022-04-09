@@ -475,3 +475,4 @@
   - [347. Top K Frequent Elements](./Apr_09_2022/347.%20Top%20K%20Frequent%20Elements.py)
   - [350. Intersection of Two Arrays II](./Apr_09_2022/350.%20Intersection%20of%20Two%20Arrays%20III.py)
   - [633. Sum of Square Numbers](./Apr_09_2022/633.%20Sum%20of%20Square%20Numbers.py)
+  - [206. Reverse Linked List](./Apr_09_2022/206.%20Reverse%20Linked%20List.py)
