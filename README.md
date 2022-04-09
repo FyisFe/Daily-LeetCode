@@ -460,6 +460,7 @@
   - [1680. Concatenation of Consecutive Binary Numbers](./Apr_07_2022/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.py)
 
 - Day 69: April 8 2022
+
   - [703. Kth Largest Element in a Stream](./Apr_08_2022/703.%20Kth%20Largest%20Element%20in%20a%20Stream.py)
   - [1337. The K Weakest Rows in a Matrix](./Apr_08_2022/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)
   - [1346. Check If N and Its Double Exist](./Apr_08_2022/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.py)
@@ -469,3 +470,6 @@
   - [198. House Robber](./Apr_08_2022/198.%20House%20Robber.py)
   - [213. House Robber II](./Apr_08_2022/213.%20House%20Robber%20II.py)
   - [740. Delete and Earn](./Apr_08_2022/740.%20Delete%20and%20Earn.py)
+
+- Day 70: April 9 2022
+  - [347. Top K Frequent Elements](./Apr_09_2022/347.%20Top%20K%20Frequent%20Elements.py)
