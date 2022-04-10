@@ -481,3 +481,4 @@
 
 - Day 71: April 10 2022
   - [682. Baseball Game](./Apr_10_2022/682.%20Baseball%20Game.py)
+  - [1855. Maximum Distance Between a Pair of Values](./Apr_10_2022/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.py)
