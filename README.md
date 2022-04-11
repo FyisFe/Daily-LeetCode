@@ -497,3 +497,4 @@
   - [45. Jump Game II](./Apr_11_2022/45.%20Jump%20Game%20II.py)
   - [53. Maximum Subarray](./Apr_11_2022/53.%20Maximum%20Subarray.py)
   - [314. Binary Tree Vertical Order Traversal](./Apr_11_2022/314.%20Binary%20Tree%20Vertical%20Order%20Traversal.py)
+  - [1762. Buildings With an Ocean View](./Apr_11_2022/1762.%20Buildings%20With%20an%20Ocean%20View.py)

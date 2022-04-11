@@ -22,7 +22,7 @@ class Solution:
                     new_que.append((node.left, level - 1))
                     new_que.append((node.right, level + 1))
             que = new_que
-        print(hm)
+
         sorted_key = sorted(hm)
         ans = []
         for key in sorted_key:
