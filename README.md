@@ -492,3 +492,4 @@
   - [232. Implement Queue using Stacks](./Apr_11_2022/232.%20Implement%20Queue%20using%20Stacks.py)
   - [144. Binary Tree Preorder Traversal](./Apr_11_2022/144.%20Binary%20Tree%20Preorder%20Traversal.py)
   - [94. Binary Tree Inorder Traversal](./Apr_11_2022/94.%20Binary%20Tree%20Inorder%20Traversal.py)
+  - [145. Binary Tree Postorder Traversal](./Apr_11_2022/145.%20Binary%20Tree%20Postorder%20Traversal.py)
