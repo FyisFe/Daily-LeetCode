@@ -488,3 +488,4 @@
   - [1260. Shift 2D Grid](./Apr_11_2022/1260.%20Shift%202D%20Grid.py)
   - [33. Search in Rotated Sorted Array](./Apr_11_2022/33.%20Search%20in%20Rotated%20Sorted%20Array.py)
   - [153. Find Minimum in Rotated Sorted Array](./Apr_11_2022/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py)
+  - [20. Valid Parentheses](./Apr_11_2022/20.%20Valid%20Parentheses.py)
