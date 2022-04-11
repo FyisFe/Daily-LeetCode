@@ -490,3 +490,4 @@
   - [153. Find Minimum in Rotated Sorted Array](./Apr_11_2022/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py)
   - [20. Valid Parentheses](./Apr_11_2022/20.%20Valid%20Parentheses.py)
   - [232. Implement Queue using Stacks](./Apr_11_2022/232.%20Implement%20Queue%20using%20Stacks.py)
+  - [144. Binary Tree Preorder Traversal](./Apr_11_2022/144.%20Binary%20Tree%20Preorder%20Traversal.py)
