@@ -498,3 +498,4 @@
   - [53. Maximum Subarray](./Apr_11_2022/53.%20Maximum%20Subarray.py)
   - [314. Binary Tree Vertical Order Traversal](./Apr_11_2022/314.%20Binary%20Tree%20Vertical%20Order%20Traversal.py)
   - [1762. Buildings With an Ocean View](./Apr_11_2022/1762.%20Buildings%20With%20an%20Ocean%20View.py)
+  - [1570. Dot Product of Two Sparse Vectors](./Apr_11_2022/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors.py)
