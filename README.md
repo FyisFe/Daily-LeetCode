@@ -480,5 +480,9 @@
   - [83. Remove Duplicates from Sorted List](./Apr_09_2022/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)
 
 - Day 71: April 10 2022
+
   - [682. Baseball Game](./Apr_10_2022/682.%20Baseball%20Game.py)
   - [1855. Maximum Distance Between a Pair of Values](./Apr_10_2022/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.py)
+
+- Day 72: April 11 2022
+  - [1260. Shift 2D Grid](./Apr_11_2022/1260.%20Shift%202D%20Grid.py)
