@@ -485,6 +485,7 @@
   - [1855. Maximum Distance Between a Pair of Values](./Apr_10_2022/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.py)
 
 - Day 72: April 11 2022
+
   - [1260. Shift 2D Grid](./Apr_11_2022/1260.%20Shift%202D%20Grid.py)
   - [33. Search in Rotated Sorted Array](./Apr_11_2022/33.%20Search%20in%20Rotated%20Sorted%20Array.py)
   - [153. Find Minimum in Rotated Sorted Array](./Apr_11_2022/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py)
@@ -499,3 +500,6 @@
   - [314. Binary Tree Vertical Order Traversal](./Apr_11_2022/314.%20Binary%20Tree%20Vertical%20Order%20Traversal.py)
   - [1762. Buildings With an Ocean View](./Apr_11_2022/1762.%20Buildings%20With%20an%20Ocean%20View.py)
   - [1570. Dot Product of Two Sparse Vectors](./Apr_11_2022/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors.py)
+
+- Day 73: April 12 2022
+  - [289. Game of Life](./Apr_12_2022/289.%20Game%20of%20Life.py)
