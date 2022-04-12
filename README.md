@@ -507,3 +507,4 @@
   - [611. Valid Triangle Number](./Apr_12_2022/611.%20Valid%20Triangle%20Number.py)
   - [102. Binary Tree Level Order Traversal](./Apr_12_2022/102-BinaryTreeLevelOrderTraversal.py)
   - [104. Maximum Depth of Binary Tree](./Apr_12_2022/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
+  - [101. Symmetric Tree](./Apr_12_2022/101.%20Symmetric%20Tree.py)
