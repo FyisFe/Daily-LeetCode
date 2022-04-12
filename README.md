@@ -508,3 +508,4 @@
   - [102. Binary Tree Level Order Traversal](./Apr_12_2022/102-BinaryTreeLevelOrderTraversal.py)
   - [104. Maximum Depth of Binary Tree](./Apr_12_2022/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
   - [101. Symmetric Tree](./Apr_12_2022/101.%20Symmetric%20Tree.py)
+  - [162. Find Peak Element](./Apr_12_2022/162.%20Find%20Peak%20Element.py)
