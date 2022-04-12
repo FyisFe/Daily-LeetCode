@@ -510,3 +510,4 @@
   - [101. Symmetric Tree](./Apr_12_2022/101.%20Symmetric%20Tree.py)
   - [162. Find Peak Element](./Apr_12_2022/162.%20Find%20Peak%20Element.py)
   - [82. Remove Duplicates from Sorted List II](./Apr_12_2022/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.py)
+  - [844. Backspace String Compare](./Apr_12_2022/844.%20Backspace%20String%20Compare.py)
