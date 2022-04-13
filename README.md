@@ -502,6 +502,7 @@
   - [1570. Dot Product of Two Sparse Vectors](./Apr_11_2022/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors.py)
 
 - Day 73: April 12 2022
+
   - [289. Game of Life](./Apr_12_2022/289.%20Game%20of%20Life.py)
   - [209. Minimum Size Subarray Sum](./Apr_12_2022/209.%20Minimum%20Size%20Subarray%20Sum.py)
   - [611. Valid Triangle Number](./Apr_12_2022/611.%20Valid%20Triangle%20Number.py)
@@ -516,3 +517,6 @@
   - [713. Subarray Product Less Than K](./Apr_12_2022/713.%20Subarray%20Product%20Less%20Than%20K.py)
   - [200. Number of Islands](./Apr_12_2022/200.%20Number%20of%20Islands.py)
   - [547. Friend Circles](./Apr_12_2022/547.%20Friend%20Circles.py)
+
+- Day 74: April 13 2022
+  - [59. Spiral Matrix II](./Apr_13_2022/59.%20Spiral%20Matrix%20II.py)
