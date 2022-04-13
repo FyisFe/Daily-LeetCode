@@ -521,3 +521,4 @@
 - Day 74: April 13 2022
   - [59. Spiral Matrix II](./Apr_13_2022/59.%20Spiral%20Matrix%20II.py)
   - [658. Find K Closest Elements](./Apr_13_2022/658.%20Find%20K%20Closest%20Elements.py)
+  - [1894. Find the Student that Will Replace the Chalk](./Apr_13_2022/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.py)
