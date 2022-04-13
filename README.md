@@ -523,3 +523,4 @@
   - [658. Find K Closest Elements](./Apr_13_2022/658.%20Find%20K%20Closest%20Elements.py)
   - [1894. Find the Student that Will Replace the Chalk](./Apr_13_2022/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.py)
   - [226. Invert Binary Tree](./Apr_13_2022/226.%20Invert%20Binary%20Tree.py)
+  - [112. Path Sum](./Apr_13_2022/112.%20Path%20Sum.py)
