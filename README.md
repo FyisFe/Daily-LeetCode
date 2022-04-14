@@ -536,3 +536,4 @@
   - [300. Longest Increasing Subsequence](./Apr_14_2022/300.%20Longest%20Increasing%20Subsequence.py)
   - [1760. Maximum Number of Events That Can Be Attended](./Apr_14_2022/1760.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended.py)
   - [701. Insert into a Binary Search Tree](./Apr_14_2022/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py)
+  - [78. Subsets](./Apr_14_2022/78.%20Subsets.py)
