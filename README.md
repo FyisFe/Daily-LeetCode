@@ -542,3 +542,4 @@
   - [39. Combination Sum](./Apr_14_2022/39.%20Combination%20Sum.py)
   - [40. Combination Sum II](./Apr_14_2022/40.%20Combination%20Sum%20II.py)
   - [17. Letter Combinations of a Phone Number](./Apr_14_2022/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)
+  - [22. Generate Parentheses](./Apr_14_2022/22.%20Generate%20Parentheses.py)
