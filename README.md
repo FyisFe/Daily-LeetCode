@@ -519,6 +519,7 @@
   - [547. Friend Circles](./Apr_12_2022/547.%20Friend%20Circles.py)
 
 - Day 74: April 13 2022
+
   - [59. Spiral Matrix II](./Apr_13_2022/59.%20Spiral%20Matrix%20II.py)
   - [658. Find K Closest Elements](./Apr_13_2022/658.%20Find%20K%20Closest%20Elements.py)
   - [1894. Find the Student that Will Replace the Chalk](./Apr_13_2022/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.py)
@@ -529,3 +530,6 @@
   - [1091. Shortest Path in Binary Tree](./Apr_13_2022/1091.%20Shortest%20Path%20in%20Binary%20Tree.py)
   - [130. Surrounded Regions](./Apr_13_2022/130.%20Surrounded%20Regions.py)
   - [797. All Paths From Source to Target](./Apr_13_2022/797.%20All%20Paths%20From%20Source%20to%20Target.py)
+
+- Day 75: April 14 2022
+  - [700. Search in a Binary Search Tree](./Apr_14_2022/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)
