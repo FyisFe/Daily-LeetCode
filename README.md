@@ -533,3 +533,4 @@
 
 - Day 75: April 14 2022
   - [700. Search in a Binary Search Tree](./Apr_14_2022/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)
+  - [300. Longest Increasing Subsequence](./Apr_14_2022/300.%20Longest%20Increasing%20Subsequence.py)
