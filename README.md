@@ -548,3 +548,4 @@
 
 - Day 76: April 15 2022
   - [669. Trim a Binary Search Tree](./Apr_15_2022/669.%20Trim%20a%20Binary%20Search%20Tree.py)
+  - [1874. Minimize Product Sum of Two Arrays](./Apr_15_2022/1874.%20Minimize%20Product%20Sum%20of%20Two%20Arrays.py)
