@@ -532,6 +532,7 @@
   - [797. All Paths From Source to Target](./Apr_13_2022/797.%20All%20Paths%20From%20Source%20to%20Target.py)
 
 - Day 75: April 14 2022
+
   - [700. Search in a Binary Search Tree](./Apr_14_2022/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)
   - [300. Longest Increasing Subsequence](./Apr_14_2022/300.%20Longest%20Increasing%20Subsequence.py)
   - [1760. Maximum Number of Events That Can Be Attended](./Apr_14_2022/1760.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended.py)
@@ -544,3 +545,6 @@
   - [17. Letter Combinations of a Phone Number](./Apr_14_2022/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)
   - [22. Generate Parentheses](./Apr_14_2022/22.%20Generate%20Parentheses.py)
   - [79. Word Search](./Apr_14_2022/79.%20Word%20Search.py)
+
+- Day 76: April 15 2022
+  - [669. Trim a Binary Search Tree](./Apr_15_2022/669.%20Trim%20a%20Binary%20Search%20Tree.py)
