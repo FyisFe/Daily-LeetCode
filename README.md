@@ -547,5 +547,9 @@
   - [79. Word Search](./Apr_14_2022/79.%20Word%20Search.py)
 
 - Day 76: April 15 2022
+
   - [669. Trim a Binary Search Tree](./Apr_15_2022/669.%20Trim%20a%20Binary%20Search%20Tree.py)
   - [1874. Minimize Product Sum of Two Arrays](./Apr_15_2022/1874.%20Minimize%20Product%20Sum%20of%20Two%20Arrays.py)
+
+- Day 77: April 16 2022
+  - [538. Convert BST to Greater Tree](./Apr_16_2022/538.%20Convert%20BST%20to%20Greater%20Tree.py)
