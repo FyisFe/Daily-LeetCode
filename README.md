@@ -554,3 +554,4 @@
 - Day 77: April 16 2022
   - [538. Convert BST to Greater Tree](./Apr_16_2022/538.%20Convert%20BST%20to%20Greater%20Tree.py)
   - [875. Koko Eating Bananas](./Apr_16_2022/875.%20Koko%20Eating%20Bananas.py)
+  - [1552. Magnetic Force Between Two Balls](./Apr_16_2022/1552.%20Magnetic%20Force%20Between%20Two%20Balls.py)
