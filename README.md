@@ -558,4 +558,8 @@
   - [1552. Magnetic Force Between Two Balls](./Apr_16_2022/1552.%20Magnetic%20Force%20Between%20Two%20Balls.py)
 
 - Day 78: April 17 2022
+
   - [897. Increasing Order Search Tree](./Apr_17_2022/897.%20Increasing%20Order%20Search%20Tree.py)
+
+- Day 79: April 18 2022
+  - [230. Kth Smallest Element in a BST](./Apr_18_2022/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py)
