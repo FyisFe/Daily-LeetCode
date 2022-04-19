@@ -570,3 +570,4 @@
   - [99. Recover Binary Search Tree](./Apr_19_2022/99.%20Recover%20Binary%20Search%20Tree.py)
   - [1283. Find the Smallest Divisor Given a Threshold](./Apr_19_2022/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.py)
   - [1898. Maximum Number of Removable Characters](./Apr_19_2022/1898.%20Maximum%20Number%20of%20Removable%20Characters.py)
+  - [1870. Minimum Speed to Arrive on Time](./Apr_19_2022/1870.%20Minimum%20Speed%20to%20Arrive%20on%20Time.py)
