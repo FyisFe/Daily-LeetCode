@@ -1,25 +1,14 @@
 class Solution:
     def minAbsoluteSumDiff(self, nums1: List[int], nums2: List[int]) -> int:
-        n = len(nums1)
-        diff = []
-        sum = 0
-        for i in range(n):
-            temp = abs(nums1[i] - nums2[i])
-            diff.append(temp)
-            sum += temp
-        nums1.sort()
-        best_diff = []
-        for i in range(n):
-            idx = bisect.bisect_left(nums1, nums2[i])
-            if idx != 0 and idx != n:
-                best_diff.append(
-                    min(abs(nums2[i] - nums1[idx]), abs(nums2[i] - nums1[idx - 1]))
-                )
-            elif idx == 0:
-                best_diff.append(abs(nums2[i] - nums1[idx]))
-            else:
-                best_diff.append(abs(nums2[i] - nums1[idx - 1]))
-        saved = 0
-        for i in range(n):
-            saved = max(saved, diff[i] - best_diff[i])
-        return (sum - saved) % ((10**9) + (7))
+        nums1 = sorted(nums1)
+        len1 = len(nums1)
+        max_diff = sum_abs_diff = 0
+        for a, b in zip(nums1, nums2):
+            abs_diff = abs(a - b)
+            sum_abs_diff += abs_diff
+            idx = bisect_left(nums1, b)
+            if idx < len1:
+                max_diff = max(max_diff, abs_diff - abs(nums1[idx] - b))
+            if idx > 0:
+                max_diff = max(max_diff, abs_diff - abs(nums1[idx - 1] - b))
+        return (sum_abs_diff - max_diff) % 1_000_000_007
