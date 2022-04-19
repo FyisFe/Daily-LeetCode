@@ -571,3 +571,4 @@
   - [1283. Find the Smallest Divisor Given a Threshold](./Apr_19_2022/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.py)
   - [1898. Maximum Number of Removable Characters](./Apr_19_2022/1898.%20Maximum%20Number%20of%20Removable%20Characters.py)
   - [1870. Minimum Speed to Arrive on Time](./Apr_19_2022/1870.%20Minimum%20Speed%20to%20Arrive%20on%20Time.py)
+  - [1482. Minimum Number of Days to Make m Bouquets](./Apr_19_2022/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.py)
