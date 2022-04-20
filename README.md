@@ -581,3 +581,4 @@
   - [1807. Evaluate the Bracket Pairs of a String](./Apr_20_2022/1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String.py)
   - [1381. Design a Stack With Increment Operation](./Apr_20_2022/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.py)
   - [820. Short Encoding of Words](./Apr_20_2022/820.%20Short%20Encoding%20of%20Words.py)
+  - [486. Predict the Winner](./Apr_20_2022/486.%20Predict%20the%20Winner.py)
