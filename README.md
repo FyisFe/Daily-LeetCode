@@ -582,3 +582,4 @@
   - [1381. Design a Stack With Increment Operation](./Apr_20_2022/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.py)
   - [820. Short Encoding of Words](./Apr_20_2022/820.%20Short%20Encoding%20of%20Words.py)
   - [486. Predict the Winner](./Apr_20_2022/486.%20Predict%20the%20Winner.py)
+  - [1299. Replace Elements with Greatest Element on Right Side](./Apr_20_2022/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.py)
