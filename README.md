@@ -567,9 +567,13 @@
   - [408. Valid Word Abbreviation](./Apr_18_2022/408.%20Valid%20Word%20Abbreviation.py)
 
 - Day 80: April 19 2022
+
   - [99. Recover Binary Search Tree](./Apr_19_2022/99.%20Recover%20Binary%20Search%20Tree.py)
   - [1283. Find the Smallest Divisor Given a Threshold](./Apr_19_2022/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.py)
   - [1898. Maximum Number of Removable Characters](./Apr_19_2022/1898.%20Maximum%20Number%20of%20Removable%20Characters.py)
   - [1870. Minimum Speed to Arrive on Time](./Apr_19_2022/1870.%20Minimum%20Speed%20to%20Arrive%20on%20Time.py)
   - [1482. Minimum Number of Days to Make m Bouquets](./Apr_19_2022/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.py)
   - [1818. Minimum Absolute Sum Difference](./Apr_19_2022/1818.%20Minimum%20Absolute%20Sum%20Difference.py)
+
+- Day 81: April 20 2022
+  - [173. Binary Search Tree Iterator](./Apr_20_2022/173.%20Binary%20Search%20Tree%20Iterator.py)
