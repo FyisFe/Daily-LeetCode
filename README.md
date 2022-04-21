@@ -589,3 +589,4 @@
 
 - Day 82: April 21 2022
   - [705. Design HashSet](./Apr_21_2022/705.%20Design%20HashSet.py)
+  - [1636. Sort Array by Increasing Frequency](./Apr_21_2022/1636.%20Sort%20Array%20by%20Increasing%20Frequency.py)
