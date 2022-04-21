@@ -597,3 +597,4 @@
   - [1861. Rotating the Box](./Apr_21_2022/1861.%20Rotating%20the%20Box.py)
   - [1297. Maximum Number of Occurrences of a Substring](./Apr_21_2022/1297.%20Maximum%20Number%20of%20Occurrences%20of%20a%20Substring.py)
   - [846. Hand of Straights](./Apr_21_2022/846.%20Hand%20of%20Straights.py)
+  - [1296. Divide Array in Sets of K Consecutive Numbers](./Apr_21_2022/1296.%20Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers.py)
