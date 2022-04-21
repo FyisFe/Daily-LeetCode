@@ -594,3 +594,4 @@
   - [781. Rabbits in Forest](./Apr_21_2022/781.%20Rabbits%20in%20Forest.py)
   - [238. Product of Array Except Self](./Apr_21_2022/238.%20Product%20of%20Array%20Except%20Self.py)
   - [1838. Frequency of the Most Frequent Element](./Apr_21_2022/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.py)
+  - [1861. Rotating the Box](./Apr_21_2022/1861.%20Rotating%20the%20Box.py)
