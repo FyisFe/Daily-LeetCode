@@ -576,6 +576,7 @@
   - [1818. Minimum Absolute Sum Difference](./Apr_19_2022/1818.%20Minimum%20Absolute%20Sum%20Difference.py)
 
 - Day 81: April 20 2022
+
   - [173. Binary Search Tree Iterator](./Apr_20_2022/173.%20Binary%20Search%20Tree%20Iterator.py)
   - [240. Search a 2D Matrix II](./Apr_20_2022/240.%20Search%20a%202D%20Matrix%20II.py)
   - [1807. Evaluate the Bracket Pairs of a String](./Apr_20_2022/1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String.py)
@@ -585,3 +586,6 @@
   - [1299. Replace Elements with Greatest Element on Right Side](./Apr_20_2022/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.py)
   - [789. Escape the Ghosts](./Apr_20_2022/789.%20Escape%20the%20Ghosts.py)
   - [1395. Count Number of Teams](./Apr_20_2022/1395.%20Count%20Number%20of%20Teams.py)
+
+- Day 82: April 21 2022
+  - [705. Design HashSet](./Apr_21_2022/705.%20Design%20HashSet.py)
