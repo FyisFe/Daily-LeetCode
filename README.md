@@ -605,3 +605,4 @@
   - [845. Longest Mountain in Array](./Apr_22_2022/845.%20Longest%20Mountain%20in%20Array.py)
   - [522. Longest Uncommon Subsequence II](./Apr_22_2022/522.%20Longest%20Uncommon%20Subsequence%20II.py)
   - [581. Shortest Unsorted Continuous Subarray](./Apr_22_2022/581.%20Shortest%20Unsorted%20Continuous%20Subarray.py)
+  - [1887. Reduction Operations to Make the Array Elements Equal](./Apr_22_2022/1887.%20Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal.py)
