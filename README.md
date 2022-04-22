@@ -608,3 +608,4 @@
   - [1887. Reduction Operations to Make the Array Elements Equal](./Apr_22_2022/1887.%20Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal.py)
   - [523. Continuous Subarray Sum](./Apr_22_2022/523.%20Continuous%20Subarray%20Sum.py)
   - [1329. Sort the Matrix Diagonally](./Apr_22_2022/1329.%20Sort%20the%20Matrix%20Diagonally.py)
+  - [1865. Finding Pairs With a Certain Sum](./Apr_22_2022/1865.%20Finding%20Pairs%20With%20a%20Certain%20Sum.py)
