@@ -609,3 +609,4 @@
   - [523. Continuous Subarray Sum](./Apr_22_2022/523.%20Continuous%20Subarray%20Sum.py)
   - [1329. Sort the Matrix Diagonally](./Apr_22_2022/1329.%20Sort%20the%20Matrix%20Diagonally.py)
   - [1865. Finding Pairs With a Certain Sum](./Apr_22_2022/1865.%20Finding%20Pairs%20With%20a%20Certain%20Sum.py)
+  - [1372. Longest Zigzag Path in a Binary Tree](./Apr_22_2022/1372.%20Longest%20Zigzag%20Path%20in%20a%20Binary%20Tree.py)
