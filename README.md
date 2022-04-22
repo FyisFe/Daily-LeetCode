@@ -588,6 +588,7 @@
   - [1395. Count Number of Teams](./Apr_20_2022/1395.%20Count%20Number%20of%20Teams.py)
 
 - Day 82: April 21 2022
+
   - [705. Design HashSet](./Apr_21_2022/705.%20Design%20HashSet.py)
   - [1636. Sort Array by Increasing Frequency](./Apr_21_2022/1636.%20Sort%20Array%20by%20Increasing%20Frequency.py)
   - [414. Third Maximum Number](./Apr_21_2022/414.%20Third%20Maximum%20Number.py)
@@ -598,3 +599,6 @@
   - [1297. Maximum Number of Occurrences of a Substring](./Apr_21_2022/1297.%20Maximum%20Number%20of%20Occurrences%20of%20a%20Substring.py)
   - [846. Hand of Straights](./Apr_21_2022/846.%20Hand%20of%20Straights.py)
   - [1296. Divide Array in Sets of K Consecutive Numbers](./Apr_21_2022/1296.%20Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers.py)
+
+- Day 83: April 22 2022
+  - [706. Design HashMap](./Apr_22_2022/706.%20Design%20HashMap.py)
