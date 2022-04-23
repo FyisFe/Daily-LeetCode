@@ -601,6 +601,7 @@
   - [1296. Divide Array in Sets of K Consecutive Numbers](./Apr_21_2022/1296.%20Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers.py)
 
 - Day 83: April 22 2022
+
   - [706. Design HashMap](./Apr_22_2022/706.%20Design%20HashMap.py)
   - [845. Longest Mountain in Array](./Apr_22_2022/845.%20Longest%20Mountain%20in%20Array.py)
   - [522. Longest Uncommon Subsequence II](./Apr_22_2022/522.%20Longest%20Uncommon%20Subsequence%20II.py)
@@ -611,3 +612,6 @@
   - [1865. Finding Pairs With a Certain Sum](./Apr_22_2022/1865.%20Finding%20Pairs%20With%20a%20Certain%20Sum.py)
   - [1372. Longest Zigzag Path in a Binary Tree](./Apr_22_2022/1372.%20Longest%20Zigzag%20Path%20in%20a%20Binary%20Tree.py)
   - [396. Rotate Function](./Apr_22_2022/396.%20Rotate%20Function.py)
+
+- Day 84: April 23 2022
+  - [535. Encode and Decode TinyURL](./Apr_23_2022/535.%20Encode%20and%20Decode%20TinyURL.py)
