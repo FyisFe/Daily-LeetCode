@@ -618,4 +618,8 @@
   - [535. Encode and Decode TinyURL](./Apr_23_2022/535.%20Encode%20and%20Decode%20TinyURL.py)
 
 - Day 85: April 24 2022
+
   - [1396. Design Underground System](./Apr_24_2022/1396.%20Design%20Underground%20System.py)
+
+- Day 86: April 25 2022
+  - [284. Peeking Iterator](./Apr_25_2022/284.%20Peeking%20Iterator.py)
