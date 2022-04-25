@@ -625,3 +625,4 @@
   - [284. Peeking Iterator](./Apr_25_2022/284.%20Peeking%20Iterator.py)
   - [1464. Maximum Product of Two Elements in an Array](./Apr_25_2022/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py)
   - [2161. Partition Array According to Given Pivot](./Apr_25_2022/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.py)
+  - [41. First Missing Positive](./Apr_25_2022/41.%20First%20Missing%20Positive.py)
