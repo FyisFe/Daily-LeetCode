@@ -630,3 +630,4 @@
   - [1310. XOR Queries of a Subarray](./Apr_25_2022/1310.%20XOR%20Queries%20of%20a%20Subarray.py)
   - [823. Binary Trees With Factors](./Apr_25_2022/823.%20Binary%20Trees%20With%20Factors.py)
   - [831. Masking Personal Information](./Apr_25_2022/831.%20Masking%20Personal%20Information.py)
+  - [1561. Maximum Number of Coins You Can Get](./Apr_25_2022/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.py)
