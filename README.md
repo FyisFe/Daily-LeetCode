@@ -629,3 +629,4 @@
   - [2090. K Radius Subarray Averages](./Apr_25_2022/2090.%20K%20Radius%20Subarray%20Averages.py)
   - [1310. XOR Queries of a Subarray](./Apr_25_2022/1310.%20XOR%20Queries%20of%20a%20Subarray.py)
   - [823. Binary Trees With Factors](./Apr_25_2022/823.%20Binary%20Trees%20With%20Factors.py)
+  - [831. Masking Personal Information](./Apr_25_2022/831.%20Masking%20Personal%20Information.py)
