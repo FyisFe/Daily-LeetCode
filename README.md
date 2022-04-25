@@ -627,3 +627,4 @@
   - [2161. Partition Array According to Given Pivot](./Apr_25_2022/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.py)
   - [41. First Missing Positive](./Apr_25_2022/41.%20First%20Missing%20Positive.py)
   - [2090. K Radius Subarray Averages](./Apr_25_2022/2090.%20K%20Radius%20Subarray%20Averages.py)
+  - [1310. XOR Queries of a Subarray](./Apr_25_2022/1310.%20XOR%20Queries%20of%20a%20Subarray.py)
