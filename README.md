@@ -636,3 +636,4 @@
 - Day 87: April 26 2022
   - [1584. Min Cost to Connect All Points](./Apr_26_2022/1584.%20Min%20Cost%20to%20Connect%20All%20Points.py)
   - [2149. Rearrange Array Elements by Sign](./Apr_26_2022/2149.%20Rearrange%20Array%20Elements%20by%20Sign.py)
+  - [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](./Apr_26_2022/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly,%20Price%20and%20Distance.py)
