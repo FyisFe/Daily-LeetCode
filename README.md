@@ -622,6 +622,7 @@
   - [1396. Design Underground System](./Apr_24_2022/1396.%20Design%20Underground%20System.py)
 
 - Day 86: April 25 2022
+
   - [284. Peeking Iterator](./Apr_25_2022/284.%20Peeking%20Iterator.py)
   - [1464. Maximum Product of Two Elements in an Array](./Apr_25_2022/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py)
   - [2161. Partition Array According to Given Pivot](./Apr_25_2022/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.py)
@@ -631,3 +632,6 @@
   - [823. Binary Trees With Factors](./Apr_25_2022/823.%20Binary%20Trees%20With%20Factors.py)
   - [831. Masking Personal Information](./Apr_25_2022/831.%20Masking%20Personal%20Information.py)
   - [1561. Maximum Number of Coins You Can Get](./Apr_25_2022/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.py)
+
+- Day 87: April 26 2022
+  - [1584. Min Cost to Connect All Points](./Apr_26_2022/1584.%20Min%20Cost%20to%20Connect%20All%20Points.py)
