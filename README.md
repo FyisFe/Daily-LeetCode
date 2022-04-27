@@ -647,3 +647,4 @@
 
 - Day 88: April 27 2022
   - [1202. Smallest String With Swaps](./Apr_27_2022/1202.%20Smallest%20String%20With%20Swaps.py)
+  - [1712. Ways to Split Array Into Three Subarrays](./Apr_27_2022/1712.%20Ways%20to%20Split%20Array%20Into%20Three%20Subarrays.py)
