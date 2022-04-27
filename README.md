@@ -634,6 +634,7 @@
   - [1561. Maximum Number of Coins You Can Get](./Apr_25_2022/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.py)
 
 - Day 87: April 26 2022
+
   - [1584. Min Cost to Connect All Points](./Apr_26_2022/1584.%20Min%20Cost%20to%20Connect%20All%20Points.py)
   - [2149. Rearrange Array Elements by Sign](./Apr_26_2022/2149.%20Rearrange%20Array%20Elements%20by%20Sign.py)
   - [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](./Apr_26_2022/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly,%20Price%20and%20Distance.py)
@@ -643,3 +644,6 @@
   - [275. H-Index II](./Apr_26_2022/275.%20H-Index%20II.py)
   - [1817. Finding the Users Active Minutes](./Apr_26_2022/1817.%20Finding%20the%20Users%20Active%20Minutes.py)
   - [2135. Count Words Obtained After Adding a Letter](./Apr_26_2022/2135.%20Count%20Words%20Obtained%20After%20Adding%20a%20Letter.py)
+
+- Day 88: April 27 2022
+  - [1202. Smallest String With Swaps](./Apr_27_2022/1202.%20Smallest%20String%20With%20Swaps.py)
