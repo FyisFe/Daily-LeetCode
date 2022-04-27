@@ -651,3 +651,4 @@
   - [904. Fruit Into Baskets](./Apr_27_2022/904.%20Fruit%20Into%20Baskets.py)
   - [384. Shuffle an Array](./Apr_27_2022/384.%20Shuffle%20an%20Array.py)
   - [659. Split Array into Consecutive Subsequences](./Apr_27_2022/659.%20Split%20Array%20into%20Consecutive%20Subsequences.py)
+  - [1816. Truncate Sentence](./Apr_27_2022/1816.%20Truncate%20Sentence.py)
