@@ -649,3 +649,4 @@
   - [1202. Smallest String With Swaps](./Apr_27_2022/1202.%20Smallest%20String%20With%20Swaps.py)
   - [1712. Ways to Split Array Into Three Subarrays](./Apr_27_2022/1712.%20Ways%20to%20Split%20Array%20Into%20Three%20Subarrays.py)
   - [904. Fruit Into Baskets](./Apr_27_2022/904.%20Fruit%20Into%20Baskets.py)
+  - [384. Shuffle an Array](./Apr_27_2022/384.%20Shuffle%20an%20Array.py)
