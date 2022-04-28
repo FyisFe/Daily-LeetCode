@@ -658,3 +658,4 @@
 - Day 89: April 28 2022
   - [1856. Maximum Subarray Min-Product](./Apr_28_2022/1856.%20Maximum%20Subarray%20Min-Product.py)
   - [1631. Path With Minimum Effort](./Apr_28_2022/1631.%20Path%20With%20Minimum%20Effort.py)
+  - [743. Network Delay Time](./Apr_28_2022/743.%20Network%20Delay%20Time.py)
