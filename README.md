@@ -656,6 +656,10 @@
   - [679. 24 Game](./Apr_27_2022/679.%2024%20Game.py)
 
 - Day 89: April 28 2022
+
   - [1856. Maximum Subarray Min-Product](./Apr_28_2022/1856.%20Maximum%20Subarray%20Min-Product.py)
   - [1631. Path With Minimum Effort](./Apr_28_2022/1631.%20Path%20With%20Minimum%20Effort.py)
   - [743. Network Delay Time](./Apr_28_2022/743.%20Network%20Delay%20Time.py)
+
+- Day 90: April 29 2022
+  - [785. Is Graph Bipartite?](./Apr_29_2022/785.%20Is%20Graph%20Bipartite.py)
