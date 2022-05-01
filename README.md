@@ -669,4 +669,8 @@
   - [485. Max Consecutive Ones](./Apr_29_2022/485.%20Max%20Consecutive%20Ones.py)
 
 - Day 91: April 30 2022
+
   - [399. Evaluate Division](./Apr_30_2022/399.%20Evaluate%20Division.py)
+
+- Day 92: May 01 2022
+  - [844. Backspace String Compare](./May_01_2022/844.%20Backspace%20String%20Compare.py)
