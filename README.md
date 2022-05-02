@@ -673,4 +673,8 @@
   - [399. Evaluate Division](./Apr_30_2022/399.%20Evaluate%20Division.py)
 
 - Day 92: May 01 2022
+
   - [844. Backspace String Compare](./May_01_2022/844.%20Backspace%20String%20Compare.py)
+
+- Day 93: May 02 2022
+  - [905. Sort Array By Parity](./May_02_2022/905.%20Sort%20Array%20By%20Parity.py)
