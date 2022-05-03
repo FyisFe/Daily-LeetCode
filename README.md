@@ -683,3 +683,4 @@
 
 - Day 94: May 03 2022
   - [581. Shortest Unsorted Continuous Subarray](./May_03_2022/581.%20Shortest%20Unsorted%20Continuous%20Subarray.py)
+  - [786. K-th Smallest Prime Fraction](./May_03_2022/786.%20K-th%20Smallest%20Prime%20Fraction.py)
