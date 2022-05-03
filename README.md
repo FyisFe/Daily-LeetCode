@@ -686,3 +686,4 @@
   - [786. K-th Smallest Prime Fraction](./May_03_2022/786.%20K-th%20Smallest%20Prime%20Fraction.py)
   - [1673. Find the Most Competitive Subsequence](./May_03_2022/1673.%20Find%20the%20Most%20Competitive%20Subsequence.py)
   - [1275. Find Winner on a Tic Tac Toe Game](./May_03_2022/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.py)
+  - [1806. Minimum Number of Operations to Reinitialize a Permutation](./May_03_2022/1806.%20Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation.py)
