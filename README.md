@@ -677,5 +677,9 @@
   - [844. Backspace String Compare](./May_01_2022/844.%20Backspace%20String%20Compare.py)
 
 - Day 93: May 02 2022
+
   - [905. Sort Array By Parity](./May_02_2022/905.%20Sort%20Array%20By%20Parity.py)
   - [655. Print Binary Tree](./May_02_2022/655.%20Print%20Binary%20Tree.py)
+
+- Day 94: May 03 2022
+  - [581. Shortest Unsorted Continuous Subarray](./May_03_2022/581.%20Shortest%20Unsorted%20Continuous%20Subarray.py)
