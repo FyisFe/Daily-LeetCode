@@ -682,6 +682,7 @@
   - [655. Print Binary Tree](./May_02_2022/655.%20Print%20Binary%20Tree.py)
 
 - Day 94: May 03 2022
+
   - [581. Shortest Unsorted Continuous Subarray](./May_03_2022/581.%20Shortest%20Unsorted%20Continuous%20Subarray.py)
   - [786. K-th Smallest Prime Fraction](./May_03_2022/786.%20K-th%20Smallest%20Prime%20Fraction.py)
   - [1673. Find the Most Competitive Subsequence](./May_03_2022/1673.%20Find%20the%20Most%20Competitive%20Subsequence.py)
@@ -689,3 +690,6 @@
   - [1806. Minimum Number of Operations to Reinitialize a Permutation](./May_03_2022/1806.%20Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation.py)
   - [4. Median of Two Sorted Arrays](./May_03_2022/4.%20Median%20of%20Two%20Sorted%20Arrays.py)
   - [650. 2 Keys Keyboard](./May_03_2022/650.%202%20Keys%20Keyboard.py)
+
+- Day 95: May 04 2022
+  [1679. Max Number of K-Sum Pairs](./May_04_2022/1679.%20Max%20Number%20of%20K-Sum%20Pairs.py)
