@@ -693,3 +693,4 @@
 
 - Day 95: May 04 2022
   [1679. Max Number of K-Sum Pairs](./May_04_2022/1679.%20Max%20Number%20of%20K-Sum%20Pairs.py)
+  [1481. Least Number of Unique Integers after K Removals](./May_04_2022/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.py)
