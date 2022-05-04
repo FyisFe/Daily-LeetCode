@@ -695,3 +695,4 @@
   - [1679. Max Number of K-Sum Pairs](./May_04_2022/1679.%20Max%20Number%20of%20K-Sum%20Pairs.py)
   - [1481. Least Number of Unique Integers after K Removals](./May_04_2022/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.py)
   - [870. Advantage Shuffle](./May_04_2022/870.%20Advantage%20Shuffle.py)
+  - [1470. Shuffle the Array](./May_04_2022/1470.%20Shuffle%20the%20Array.py)
