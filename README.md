@@ -704,3 +704,4 @@
   - [841. Keys and Rooms](./May_05_2022/841.%20Keys%20and%20Rooms.py)
   - [225. Implement Stack using Queues](./May_05_2022/225.%20Implement%20Stack%20using%20Queues.py)
   - [326. Power of Three](./May_05_2022/326.%20Power%20of%20Three.py)]
+  - [424. Longest Repeating Character Replacement](./May_05_2022/424.%20Longest%20Repeating%20Character%20Replacement.py)
