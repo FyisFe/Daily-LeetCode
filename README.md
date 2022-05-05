@@ -692,9 +692,13 @@
   - [650. 2 Keys Keyboard](./May_03_2022/650.%202%20Keys%20Keyboard.py)
 
 - Day 95: May 04 2022
+
   - [1679. Max Number of K-Sum Pairs](./May_04_2022/1679.%20Max%20Number%20of%20K-Sum%20Pairs.py)
   - [1481. Least Number of Unique Integers after K Removals](./May_04_2022/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.py)
   - [870. Advantage Shuffle](./May_04_2022/870.%20Advantage%20Shuffle.py)
   - [1470. Shuffle the Array](./May_04_2022/1470.%20Shuffle%20the%20Array.py)
   - [1498. Number of Subsequences That Sum to N](./May_04_2022/1498.%20Number%20of%20Subsequences%20That%20Sum%20to%20N.py)
   - [934. Shortest Bridge](./May_04_2022/934.%20Shortest%20Bridge.py)
+
+- Day 96: May 05 2022
+  - [841. Keys and Rooms](./May_05_2022/841.%20Keys%20and%20Rooms.py)
