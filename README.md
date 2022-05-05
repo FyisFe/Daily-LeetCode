@@ -702,3 +702,4 @@
 
 - Day 96: May 05 2022
   - [841. Keys and Rooms](./May_05_2022/841.%20Keys%20and%20Rooms.py)
+  - [225. Implement Stack using Queues](./May_05_2022/225.%20Implement%20Stack%20using%20Queues.py)
