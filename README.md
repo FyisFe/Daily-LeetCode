@@ -712,3 +712,4 @@
   - [1209. Remove All Adjacent Duplicates in String II](./May_06_2022/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.py)
   - [1504. Count Submatrices With All Ones](./May_06_2022/1504.%20Count%20Submatrices%20With%20All%20Ones.py)
   - [1222. Queens That Can Attack the King](./May_06_2022/1222.%20Queens%20That%20Can%20Attack%20the%20King.py)
+  - [1658. Minimum Operations to Reduce X to Zero](./May_06_2022/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.py)
