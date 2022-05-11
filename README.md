@@ -736,3 +736,4 @@
 - Day 102: May 11 2022
   - [1641. Count Sorted Vowel Strings](./May_11_2022/1641.%20Count%20Sorted%20Vowel%20Strings.py)
   - [1975. Maximum Matrix Sum](./May_11_2022/1975.%20Maximum%20Matrix%20Sum.py)
+  - [752. Open the Lock](./May_11_2022/752.%20Open%20the%20Lock.py)
