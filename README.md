@@ -747,3 +747,4 @@
   - [874. Walking Robot Simulation](./May_12_2022/874.%20Walking%20Robot%20Simulation.py)
   - [491. Increasing Subsequences](./May_12_2022/491.%20Increasing%20Subsequences.py)
   - [419. Battleships in a Board](./May_12_2022/419.%20Battleships%20in%20a%20Board.py)
+  - [19. Remove Nth Node From End of List](./May_12_2022/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)
