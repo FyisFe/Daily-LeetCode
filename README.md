@@ -734,8 +734,12 @@
   - [216. Combination Sum III](./May_10_2022/216.%20Combination%20Sum%20III.py)
 
 - Day 102: May 11 2022
+
   - [1641. Count Sorted Vowel Strings](./May_11_2022/1641.%20Count%20Sorted%20Vowel%20Strings.py)
   - [1975. Maximum Matrix Sum](./May_11_2022/1975.%20Maximum%20Matrix%20Sum.py)
   - [752. Open the Lock](./May_11_2022/752.%20Open%20the%20Lock.py)
   - [1089. Duplicate Zeros](./May_11_2022/1089.%20Duplicate%20Zeros.py)
   - [2091. Removing Minimum and Maximum From Array](./May_11_2022/2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array.py)
+
+- Day 103: May 12 2022
+  - [46. Permutations](./May_12_2022/46.%20Permutations.py)
