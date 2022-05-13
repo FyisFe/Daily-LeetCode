@@ -742,6 +742,7 @@
   - [2091. Removing Minimum and Maximum From Array](./May_11_2022/2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array.py)
 
 - Day 103: May 12 2022
+
   - [46. Permutations](./May_12_2022/46.%20Permutations.py)
   - [47. Permutations II](./May_12_2022/47.%20Permutations%20II.py)
   - [874. Walking Robot Simulation](./May_12_2022/874.%20Walking%20Robot%20Simulation.py)
@@ -749,3 +750,6 @@
   - [419. Battleships in a Board](./May_12_2022/419.%20Battleships%20in%20a%20Board.py)
   - [19. Remove Nth Node From End of List](./May_12_2022/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)
   - [1492. The kth Factor of n](./May_12_2022/1492.%20The%20kth%20Factor%20of%20n.py)
+
+- Day 104: May 13 2022
+  - [2250. Count Number of Rectangles Containing Each Point](./May_13_2022/2250.%20Count%20Number%20of%20Rectangles%20Containing%20Each%20Point.py)
