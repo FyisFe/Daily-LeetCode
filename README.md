@@ -752,6 +752,10 @@
   - [1492. The kth Factor of n](./May_12_2022/1492.%20The%20kth%20Factor%20of%20n.py)
 
 - Day 104: May 13 2022
+
   - [2250. Count Number of Rectangles Containing Each Point](./May_13_2022/2250.%20Count%20Number%20of%20Rectangles%20Containing%20Each%20Point.py)
   - [496. Next Greater Element I](./May_13_2022/496.%20Next%20Greater%20Element%20I.py)
   - [503. Next Greater Element II](./May_13_2022/503.%20Next%20Greater%20Element%20II.py)
+
+- Day 105: May 14 2022
+  - [743. Network Delay Time](./May_14_2022/743.%20Network%20Delay%20Time.py)
