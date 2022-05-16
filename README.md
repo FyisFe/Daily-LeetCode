@@ -768,3 +768,4 @@
   - [1968. Array With Elements Not Equal to Average of Neighbors](./May_16_2022/1968.%20Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors.py)
   - [1302. Deepest Leaves Sum](./May_16_2022/1302.%20Deepest%20Leaves%20Sum.py)
   - [951. Flip Equivalent Binary Trees](./May_16_2022/951.%20Flip%20Equivalent%20Binary%20Trees.py)
+  - [1828. Queries on Number of Points Inside a Circle](./May_16_2022/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.py)
