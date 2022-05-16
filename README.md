@@ -758,4 +758,8 @@
   - [503. Next Greater Element II](./May_13_2022/503.%20Next%20Greater%20Element%20II.py)
 
 - Day 105: May 14 2022
+
   - [743. Network Delay Time](./May_14_2022/743.%20Network%20Delay%20Time.py)
+
+- Day 106: May 16 2022
+  - [1091. Shortest Path in Binary Matrix](./May_16_2022/1091.%20Shortest%20Path%20in%20Binary%20Matrix.py)
