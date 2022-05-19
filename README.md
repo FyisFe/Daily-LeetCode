@@ -779,4 +779,9 @@
   - [21. Merge Two Sorted Lists](./May_17_2022/21.%20Merge%20Two%20Sorted%20Lists.py)
 
 - Day 108: May 18 2022
+
   - [1192. Critical Connections in a Network](./May_18_2022/1192.%20Critical%20Connections%20in%20a%20Network.py)
+
+- Day 109: May 19 2022
+  - [329. Longest Increasing Path in a Matrix](./May_19_2022/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.py)
+  - [141. Linked List Cycle](./May_19_2022/141.%20Linked%20List%20Cycle.py)
