@@ -797,3 +797,8 @@
   - [63. Unique Paths II](./May_20_2022/63.%20Unique%20Paths%20II.py)
 
 - Day 111: May 21 2022
+
+  - [322. Coin Change](./May_21_2022/322.%20Coin%20Change.py)
+
+- Day 112: May 22 2022
+  - [647. Palindromic Substrings](./May_22_2022/647.%20Palindromic%20Substrings.py)
