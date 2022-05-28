@@ -823,5 +823,10 @@
 
   - [191. Number of 1 Bits](./May_26_2022/191.%20Number%20of%201%20Bits.py)
 
+- Day 117 : May 27 2022
+
+  - [1342. Number of Steps to Reduce a Number to Zero](./May_27_2022/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.py)
+
 - Day 118 : May 28 2022
+
   - [268. Missing Number](./May_28_2022/268.%20Missing%20Number.py)
