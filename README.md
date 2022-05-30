@@ -837,3 +837,4 @@
 
 - Day 120 : May 30 2022
   - [29. Divide Two Integers](./May_30_2022/29.%20Divide%20Two%20Integers.py)
+  - [50. Pow(x, n)](./May_30_2022/50.%20Pow%28x%2C%20n%29.py)
