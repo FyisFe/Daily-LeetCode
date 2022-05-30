@@ -832,4 +832,8 @@
   - [268. Missing Number](./May_28_2022/268.%20Missing%20Number.py)
 
 - Day 119 : May 29 2022
+
   - [318. Maximum Product of Word Lengths](./May_29_2022/318.%20Maximum%20Product%20of%20Word%20Lengths.py)
+
+- Day 120 : May 30 2022
+  - [29. Divide Two Integers](./May_30_2022/29.%20Divide%20Two%20Integers.py)
