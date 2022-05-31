@@ -836,6 +836,10 @@
   - [318. Maximum Product of Word Lengths](./May_29_2022/318.%20Maximum%20Product%20of%20Word%20Lengths.py)
 
 - Day 120 : May 30 2022
+
   - [29. Divide Two Integers](./May_30_2022/29.%20Divide%20Two%20Integers.py)
   - [50. Pow(x, n)](./May_30_2022/50.%20Pow%28x%2C%20n%29.py)
   - [69. Sqrt(x)](./May_30_2022/69.%20Sqrt%28x%29.py)
+
+- Day 121 : May 31 2022
+  - [1461. Check If a String Contains All Binary Codes of Size K](./May_31_2022/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.py)
