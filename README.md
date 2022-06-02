@@ -847,3 +847,4 @@
 
 - Day 122 : June 01 2022
   - [1480. Running Sum of 1d Array](./June/June_01_2022/1480.%20Running%20Sum%20of%201d%20Array.py)
+  - [867. Transpose Matrix](./June/June_01_2022/867.%20Transpose%20Matrix.py)
