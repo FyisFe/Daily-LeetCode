@@ -854,5 +854,9 @@
 
   - [867. Transpose Matrix](./June/June_02_2022/867.%20Transpose%20Matrix.py)
 
+- Day 124 : June 03 2022
+
+  - [304. Range Sum Query 2D - Immutable](./June/June_03_2022/304.%20Range%20Sum%20Query%202D%20-%20Immutable.py)
+
 - Day 125 : June 04 2022
   - [51. N-Queens](./June/June_04_2022/51.%20N-Queens.py)
