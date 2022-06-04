@@ -851,4 +851,8 @@
   - [867. Transpose Matrix](./June/June_01_2022/867.%20Transpose%20Matrix.py)
 
 - Day 123 : June 02 2022
+
   - [867. Transpose Matrix](./June/June_02_2022/867.%20Transpose%20Matrix.py)
+
+- Day 125 : June 04 2022
+  - [51. N-Queens](./June/June_04_2022/51.%20N-Queens.py)
