@@ -859,4 +859,8 @@
   - [304. Range Sum Query 2D - Immutable](./June/June_03_2022/304.%20Range%20Sum%20Query%202D%20-%20Immutable.py)
 
 - Day 125 : June 04 2022
+
   - [51. N-Queens](./June/June_04_2022/51.%20N-Queens.py)
+
+- Day 126 : June 05 2022
+  - [52. N-Queens II](./June/June_05_2022/52.%20N-Queens%20II.py)
