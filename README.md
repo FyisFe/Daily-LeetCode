@@ -863,4 +863,8 @@
   - [51. N-Queens](./June/June_04_2022/51.%20N-Queens.py)
 
 - Day 126 : June 05 2022
+
   - [52. N-Queens II](./June/June_05_2022/52.%20N-Queens%20II.py)
+
+- Day 127 : June 06 2022
+  - [160. Intersection of Two Linked Lists](./June/June_06_2022/160.%20Intersection%20of%20Two%20Linked%20Lists.py)
