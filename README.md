@@ -879,3 +879,4 @@
 
 - Day 129 : June 08 2022
   - [1332. Remove Palindromic Subsequences](./June/June_08_2022/1332.%20Remove%20Palindromic%20Subsequences.py)
+  - [226. Invert Binary Tree](./June/June_08_2022/226.%20Invert%20Binary%20Tree.py)
