@@ -874,4 +874,8 @@
   - [125. Valid Palindrome](./June/June_06_2022/125.%20Valid%20Palindrome.py)
 
 - Day 128 : June 07 2022
+
   - [88. Merge Sorted Array](./June/June_07_2022/88.%20Merge%20Sorted%20Array.py)
+
+- Day 129 : June 08 2022
+  - [1332. Remove Palindromic Subsequences](./June/June_08_2022/1332.%20Remove%20Palindromic%20Subsequences.py)
