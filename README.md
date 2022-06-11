@@ -887,4 +887,8 @@
   - [167. Two Sum II - Input array is sorted](./June/June_09_2022/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)
 
 - Day 131 : June 10 2022
+
   - [3. Longest Substring Without Repeating Characters](./June/June_10_2022/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
+
+- Day 132 : June 11 2022
+  - [1658. Minimum Operations to Reduce X to Zero](./June/June_11_2022/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.py)
