@@ -891,5 +891,9 @@
   - [3. Longest Substring Without Repeating Characters](./June/June_10_2022/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)
 
 - Day 132 : June 11 2022
+
   - [1658. Minimum Operations to Reduce X to Zero](./June/June_11_2022/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.py)
   - [513. Find Bottom Left Tree Value](./June/June_11_2022/513.%20Find%20Bottom%20Left%20Tree%20Value.py)
+
+- Day 133 : June 12 2022
+  - [1695. Maximum Erasure Value](./June/June_12_2022/1695.%20Maximum%20Erasure%20Value.py)
