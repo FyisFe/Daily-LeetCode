@@ -896,4 +896,8 @@
   - [513. Find Bottom Left Tree Value](./June/June_11_2022/513.%20Find%20Bottom%20Left%20Tree%20Value.py)
 
 - Day 133 : June 12 2022
+
   - [1695. Maximum Erasure Value](./June/June_12_2022/1695.%20Maximum%20Erasure%20Value.py)
+
+- Day 134 : June 13 2022
+  - [120. Triangle](./June/June_13_2022/120.%20Triangle.py)
