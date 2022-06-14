@@ -900,4 +900,8 @@
   - [1695. Maximum Erasure Value](./June/June_12_2022/1695.%20Maximum%20Erasure%20Value.py)
 
 - Day 134 : June 13 2022
+
   - [120. Triangle](./June/June_13_2022/120.%20Triangle.py)
+
+- Day 135 : June 14 2022
+  - [583. Delete Operation for Two Strings](./June/June_14_2022/583.%20Delete%20Operation%20for%20Two%20Strings.py)
