@@ -904,4 +904,8 @@
   - [120. Triangle](./June/June_13_2022/120.%20Triangle.py)
 
 - Day 135 : June 14 2022
+
   - [583. Delete Operation for Two Strings](./June/June_14_2022/583.%20Delete%20Operation%20for%20Two%20Strings.py)
+
+- Day 136 : June 15 2022
+  - [1048. Longest String Chain](./June/June_15_2022/1048.%20Longest%20String%20Chain.py)
