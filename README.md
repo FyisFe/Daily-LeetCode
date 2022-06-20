@@ -919,4 +919,12 @@
   - [18. 4Sum](./June/June_16_2022/18.%204Sum.py)
 
 - Day 138 : June 17 2022
+
   - [968. Binary Tree Camera](./June/June_17_2022/968.%20Binary%20Tree%20Camera.py)
+
+- Day 139 : June 18 2022
+
+  - [745. Prefix and Suffix Search](./June/June_18_2022/745.%20Prefix%20and%20Suffix%20Search.py)
+
+- Day 140 : June 20 2022
+  - [820. Short Encoding of Words](./June/June_20_2022/820.%20Short%20Encoding%20of%20Words.py)
