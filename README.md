@@ -928,3 +928,4 @@
 
 - Day 140 : June 20 2022
   - [820. Short Encoding of Words](./June/June_20_2022/820.%20Short%20Encoding%20of%20Words.py)
+  - [1268. Search Suggestions System](./June/June_20_2022/1268.%20Search%20Suggestions%20System.py)
