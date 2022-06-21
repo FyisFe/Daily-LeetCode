@@ -14,7 +14,7 @@
 
 - Day 1: Jan 25 2022
 
-  - [941. Valid Mountain Array](./J an_25_2022/941.%20Valid%20Mountain%20Array.py)
+  - [941. Valid Mountain Array](./Jan_25_2022/941.%20Valid%20Mountain%20Array.py)
 
 - Day 2: Jan 26 2022
 
@@ -927,5 +927,10 @@
   - [745. Prefix and Suffix Search](./June/June_18_2022/745.%20Prefix%20and%20Suffix%20Search.py)
 
 - Day 140 : June 20 2022
+
   - [820. Short Encoding of Words](./June/June_20_2022/820.%20Short%20Encoding%20of%20Words.py)
   - [1268. Search Suggestions System](./June/June_20_2022/1268.%20Search%20Suggestions%20System.py)
+
+- Day 141 : June 21 2022
+
+  - [1642. Furthest Building You Can Reach](./June/June_21_2022/1642.%20Furthest%20Building%20You%20Can%20Reach.py)
