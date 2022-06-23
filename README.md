@@ -936,4 +936,8 @@
   - [1642. Furthest Building You Can Reach](./June/June_21_2022/1642.%20Furthest%20Building%20You%20Can%20Reach.py)
 
 - Day 142 : June 22 2022
+
   - [215. Kth Largest Element in an Array](./June/June_22_2022/215.%20Kth%20Largest%20Element%20in%20an%20Array.py)
+
+- Day 143 : June 23 2022
+  - [630. Course Schedule III](./June/June_23_2022/630.%20Course%20Schedule%20III.py)
