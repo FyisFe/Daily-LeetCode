@@ -942,3 +942,4 @@
 - Day 143 : June 23 2022
   - [630. Course Schedule III](./June/June_23_2022/630.%20Course%20Schedule%20III.py)
   - [208. Implement Trie](./June/June_23_2022/208.%20Implement%20Trie.py)
+  - [139. Word Break](./June/June_23_2022/139.%20Word%20Break.py)
