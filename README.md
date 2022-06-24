@@ -940,6 +940,10 @@
   - [215. Kth Largest Element in an Array](./June/June_22_2022/215.%20Kth%20Largest%20Element%20in%20an%20Array.py)
 
 - Day 143 : June 23 2022
+
   - [630. Course Schedule III](./June/June_23_2022/630.%20Course%20Schedule%20III.py)
   - [208. Implement Trie](./June/June_23_2022/208.%20Implement%20Trie.py)
   - [139. Word Break](./June/June_23_2022/139.%20Word%20Break.py)
+
+- Day 144 : June 24 2022
+  - [1354. Construct Target Array With Multiple Sums](./June/June_24_2022/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums.py)
