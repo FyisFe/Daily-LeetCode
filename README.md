@@ -946,4 +946,8 @@
   - [139. Word Break](./June/June_23_2022/139.%20Word%20Break.py)
 
 - Day 144 : June 24 2022
+
   - [1354. Construct Target Array With Multiple Sums](./June/June_24_2022/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums.py)
+
+- Day 145 : June 25 2022
+  - [665. Non-decreasing Array](./June/June_25_2022/665.%20Non-decreasing%20Array.py)
