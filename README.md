@@ -950,4 +950,8 @@
   - [1354. Construct Target Array With Multiple Sums](./June/June_24_2022/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums.py)
 
 - Day 145 : June 25 2022
+
   - [665. Non-decreasing Array](./June/June_25_2022/665.%20Non-decreasing%20Array.py)
+
+- Day 146 : June 26 2022
+  - [1423. Maximum Points You Can Obtain from Cards](./June/June_26_2022/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.py)
