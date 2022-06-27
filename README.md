@@ -954,4 +954,8 @@
   - [665. Non-decreasing Array](./June/June_25_2022/665.%20Non-decreasing%20Array.py)
 
 - Day 146 : June 26 2022
+
   - [1423. Maximum Points You Can Obtain from Cards](./June/June_26_2022/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.py)
+
+- Day 147 : June 27 2022
+  - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./June/June_27_2022/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py)
