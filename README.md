@@ -963,3 +963,4 @@
 
 - Day 148 : June 28 2022
   - [1647. Minimum Deletions to Make Character Frequencies Unique](./June/June_28_2022/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.py)
+  - [945. Minimum Increment to Make Array Unique](./June/June_28_2022/945.%20Minimum%20Increment%20to%20Make%20Array%20Unique.py)
