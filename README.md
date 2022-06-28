@@ -958,4 +958,8 @@
   - [1423. Maximum Points You Can Obtain from Cards](./June/June_26_2022/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.py)
 
 - Day 147 : June 27 2022
+
   - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./June/June_27_2022/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py)
+
+- Day 148 : June 28 2022
+  - [1647. Minimum Deletions to Make Character Frequencies Unique](./June/June_28_2022/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.py)
