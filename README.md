@@ -962,5 +962,9 @@
   - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./June/June_27_2022/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py)
 
 - Day 148 : June 28 2022
+
   - [1647. Minimum Deletions to Make Character Frequencies Unique](./June/June_28_2022/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.py)
   - [945. Minimum Increment to Make Array Unique](./June/June_28_2022/945.%20Minimum%20Increment%20to%20Make%20Array%20Unique.py)
+
+- Day 149 : June 29 2022
+  - [406. Queue Reconstruction by Height](./June/June_29_2022/406.%20Queue%20Reconstruction%20by%20Height.py)
