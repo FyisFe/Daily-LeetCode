@@ -967,4 +967,8 @@
   - [945. Minimum Increment to Make Array Unique](./June/June_28_2022/945.%20Minimum%20Increment%20to%20Make%20Array%20Unique.py)
 
 - Day 149 : June 29 2022
+
   - [406. Queue Reconstruction by Height](./June/June_29_2022/406.%20Queue%20Reconstruction%20by%20Height.py)
+
+- Day 150 : June 30 2022
+  - [453. Minimum Moves to Equal Array Elements](./June/June_30_2022/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.py)
