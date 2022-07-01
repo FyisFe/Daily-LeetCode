@@ -971,6 +971,10 @@
   - [406. Queue Reconstruction by Height](./June/June_29_2022/406.%20Queue%20Reconstruction%20by%20Height.py)
 
 - Day 150 : June 30 2022
+
   - [453. Minimum Moves to Equal Array Elements](./June/June_30_2022/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.py)
   - [462. Minimum Moves to Equal Array Elements II](./June/June_30_2022/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.py)
   - [211. Design Add and Search Words Data Structure](./June/June_30_2022/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py)
+
+- Day 151: July 01 2022
+  - [1710. Maximum Units on a Truck](./July/July_01_2022/1710.%20Maximum%20Units%20on%20a%20Truck.py)
