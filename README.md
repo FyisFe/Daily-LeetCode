@@ -977,4 +977,8 @@
   - [211. Design Add and Search Words Data Structure](./June/June_30_2022/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py)
 
 - Day 151: July 01 2022
+
   - [1710. Maximum Units on a Truck](./July/July_01_2022/1710.%20Maximum%20Units%20on%20a%20Truck.py)
+
+- Day 152: July 02 2022
+  - [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./July/July_02_2022/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.py)
