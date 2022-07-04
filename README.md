@@ -985,4 +985,8 @@
   - [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./July/July_02_2022/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.py)
 
 - Day 153: July 03 2022
+
   - [376. Wiggle Subsequence](./July/July_03_2022/376.%20Wiggle%20Subsequence.py)
+
+- Day 154: July 04 2022
+  - [135. Candy](./July/July_04_2022/135.%20Candy.py)
