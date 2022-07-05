@@ -989,4 +989,8 @@
   - [376. Wiggle Subsequence](./July/July_03_2022/376.%20Wiggle%20Subsequence.py)
 
 - Day 154: July 04 2022
+
   - [135. Candy](./July/July_04_2022/135.%20Candy.py)
+
+- Day 155: July 05 2022
+  - [128. Longest Consecutive Sequence](./July/July_05_2022/128.%20Longest%20Consecutive%20Sequence.py)
