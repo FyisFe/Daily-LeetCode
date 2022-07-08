@@ -997,4 +997,8 @@
   - [128. Longest Consecutive Sequence](./July/July_05_2022/128.%20Longest%20Consecutive%20Sequence.py)
 
 - Day 156: July 06 2022
+
   - [509. Fibonacci Number](./July/July_06_2022/509.%20Fibonacci%20Number.py)
+
+- Day 157: July 08 2022
+  - [1473. Paint House III](./July/July_08_2022/1473.%20Paint%20House%20III.py)
