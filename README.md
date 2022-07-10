@@ -1001,4 +1001,8 @@
   - [509. Fibonacci Number](./July/July_06_2022/509.%20Fibonacci%20Number.py)
 
 - Day 157: July 08 2022
+
   - [1473. Paint House III](./July/July_08_2022/1473.%20Paint%20House%20III.py)
+
+- Day 158: July 10 2022
+  - [746. Min Cost Climbing Stairs](./July/July_10_2022/746.%20Min%20Cost%20Climbing%20Stairs.py)
