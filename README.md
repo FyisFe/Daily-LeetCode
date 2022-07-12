@@ -1011,4 +1011,8 @@
   - [97. Interleaving String](./July/July_10_2022/97.%20Interleaving%20String.py)
 
 - Day 159: July 11 2022
+
   - [199. Binary Tree Right Side View](./July/July_11_2022/199.%20Binary%20Tree%20Right%20Side%20View.py)
+
+- Day 160: July 12 2022
+  - [473. Matchsticks to Square](./July/July_12_2022/473.%20Matchsticks%20to%20Square.py)
