@@ -1023,4 +1023,8 @@
   - [102. Binary Tree Level Order Traversal](./July/July_13_2022/102.%20Binary%20Tree%20Level%20Order%20Traversal.py)
 
 - Day 162: July 14 2022
+
   - [105. Construct Binary Tree from Preorder and Inorder Traversal](./July/July_14_2022/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)
+
+- Day 163: July 15 2022
+  - [695. Max Area of Island](./July/July_15_2022/695.%20Max%20Area%20of%20Island.py)
