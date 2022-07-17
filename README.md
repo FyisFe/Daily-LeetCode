@@ -1027,4 +1027,8 @@
   - [105. Construct Binary Tree from Preorder and Inorder Traversal](./July/July_14_2022/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)
 
 - Day 163: July 15 2022
+
   - [695. Max Area of Island](./July/July_15_2022/695.%20Max%20Area%20of%20Island.py)
+
+- Day 164: July 17 2022
+  - [629. K Inverse Pairs Array](./July/July_17_2022/629.%20K%20Inverse%20Pairs%20Array.py)
