@@ -1031,4 +1031,8 @@
   - [695. Max Area of Island](./July/July_15_2022/695.%20Max%20Area%20of%20Island.py)
 
 - Day 164: July 17 2022
+
   - [629. K Inverse Pairs Array](./July/July_17_2022/629.%20K%20Inverse%20Pairs%20Array.py)
+
+- Day 165: July 18 2022
+  - [1074. Number of Submatrices That Sum to Target](./July/July_18_2022/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.py)
