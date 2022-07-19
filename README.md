@@ -1035,4 +1035,8 @@
   - [629. K Inverse Pairs Array](./July/July_17_2022/629.%20K%20Inverse%20Pairs%20Array.py)
 
 - Day 165: July 18 2022
+
   - [1074. Number of Submatrices That Sum to Target](./July/July_18_2022/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.py)
+
+- Day 166: July 19 2022
+  - [118. Pascal's Triangle](./July/July_19_2022/118.%20Pascal%27s%20Triangle.py)
