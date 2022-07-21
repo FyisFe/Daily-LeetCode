@@ -1039,4 +1039,8 @@
   - [1074. Number of Submatrices That Sum to Target](./July/July_18_2022/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.py)
 
 - Day 166: July 19 2022
+
   - [118. Pascal's Triangle](./July/July_19_2022/118.%20Pascal%27s%20Triangle.py)
+
+- Day 167: July 20 2022
+  - [92. Reverse Linked List II](./July/July_20_2022/92.%20Reverse%20Linked%20List%20II.py)
