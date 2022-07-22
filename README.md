@@ -1043,4 +1043,8 @@
   - [118. Pascal's Triangle](./July/July_19_2022/118.%20Pascal%27s%20Triangle.py)
 
 - Day 167: July 20 2022
+
   - [92. Reverse Linked List II](./July/July_20_2022/92.%20Reverse%20Linked%20List%20II.py)
+
+- Day 168: July 21 2022
+  - [86. Partition List](./July/July_21_2022/86.%20Partition%20List.py)
