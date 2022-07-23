@@ -1047,4 +1047,8 @@
   - [92. Reverse Linked List II](./July/July_20_2022/92.%20Reverse%20Linked%20List%20II.py)
 
 - Day 168: July 21 2022
+
   - [86. Partition List](./July/July_21_2022/86.%20Partition%20List.py)
+
+- Day 169: July 22 2022
+  - [315. Count of Smaller Numbers After Self](./July/July_22_2022/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.py)
