@@ -1042,17 +1042,17 @@
 
   - [118. Pascal's Triangle](./July/July_19_2022/118.%20Pascal%27s%20Triangle.py)
 
-- Day 167: July 20 2022
+- Day 167: July 21 2022
 
-  - [92. Reverse Linked List II](./July/July_20_2022/92.%20Reverse%20Linked%20List%20II.py)
+  - [92. Reverse Linked List II](./July/July_21_2022/92.%20Reverse%20Linked%20List%20II.py)
 
-- Day 168: July 21 2022
+- Day 168: July 22 2022
 
-  - [86. Partition List](./July/July_21_2022/86.%20Partition%20List.py)
+  - [86. Partition List](./July/July_22_2022/86.%20Partition%20List.py)
 
-- Day 169: July 22 2022
+- Day 169: July 23 2022
 
-  - [315. Count of Smaller Numbers After Self](./July/July_22_2022/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.py)
+  - [315. Count of Smaller Numbers After Self](./July/July_23_2022/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.py)
 
 - Day 170: July 24 2022
   - [240. Search a 2D Matrix II](./July/July_24_2022/240.%20Search%20a%202D%20Matrix%20II.py)
