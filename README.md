@@ -1051,4 +1051,8 @@
   - [86. Partition List](./July/July_21_2022/86.%20Partition%20List.py)
 
 - Day 169: July 22 2022
+
   - [315. Count of Smaller Numbers After Self](./July/July_22_2022/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.py)
+
+- Day 170: July 24 2022
+  - [240. Search a 2D Matrix II](./July/July_24_2022/240.%20Search%20a%202D%20Matrix%20II.py)
