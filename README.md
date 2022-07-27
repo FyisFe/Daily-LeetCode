@@ -1059,4 +1059,8 @@
   - [240. Search a 2D Matrix II](./July/July_24_2022/240.%20Search%20a%202D%20Matrix%20II.py)
 
 - Day 171: July 25 2022
+
   - [236. Lowest Common Ancestor of a Binary Tree](./July/July_25_2022/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)
+
+- Day 172: July 26 2022
+  - [114. Flatten Binary Tree to Linked List](./July/July_26_2022/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py)
