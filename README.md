@@ -1067,4 +1067,8 @@
   - [114. Flatten Binary Tree to Linked List](./July/July_27_2022/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py)
 
 - Day 173: July 28 2022
+
   - [242. Valid Anagram](./July/July_28_2022/242.%20Valid%20Anagram.py)
+
+- Day 174: July 29 2022
+  - [890. Find and Replace Pattern](./July/July_29_2022/890.%20Find%20and%20Replace%20Pattern.py)
