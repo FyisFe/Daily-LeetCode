@@ -1071,4 +1071,8 @@
   - [242. Valid Anagram](./July/July_28_2022/242.%20Valid%20Anagram.py)
 
 - Day 174: July 29 2022
+
   - [890. Find and Replace Pattern](./July/July_29_2022/890.%20Find%20and%20Replace%20Pattern.py)
+
+- Day 175: July 30 2022
+  - [916. Word Subsets](./July/July_30_2022/916.%20Word%20Subsets.py)
