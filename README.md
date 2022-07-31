@@ -1075,4 +1075,8 @@
   - [890. Find and Replace Pattern](./July/July_29_2022/890.%20Find%20and%20Replace%20Pattern.py)
 
 - Day 175: July 30 2022
+
   - [916. Word Subsets](./July/July_30_2022/916.%20Word%20Subsets.py)
+
+- Day 176: July 31 2022
+  - [307. Range Sum Query - Mutable](./July/July_31_2022/307.%20Range%20Sum%20Query%20-%20Mutable.py)
