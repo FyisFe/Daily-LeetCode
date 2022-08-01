@@ -1079,4 +1079,8 @@
   - [916. Word Subsets](./July/July_30_2022/916.%20Word%20Subsets.py)
 
 - Day 176: July 31 2022
+
   - [307. Range Sum Query - Mutable](./July/July_31_2022/307.%20Range%20Sum%20Query%20-%20Mutable.py)
+
+- Day 177: August 01 2022
+  - [62. Unique Paths](./August/August_01_2022/62.%20Unique%20Paths.py)
