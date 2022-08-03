@@ -1083,4 +1083,8 @@
   - [307. Range Sum Query - Mutable](./July/July_31_2022/307.%20Range%20Sum%20Query%20-%20Mutable.py)
 
 - Day 177: August 01 2022
+
   - [62. Unique Paths](./August/August_01_2022/62.%20Unique%20Paths.py)
+
+- Day 178: August 02 2022
+  - [378. Kth Smallest Element in a Sorted Matrix](./August/August_02_2022/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py)
