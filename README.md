@@ -1103,4 +1103,8 @@
   - [377. Combination Sum IV](./August/August_05_2022/377.%20Combination%20Sum%20IV.py)
 
 - Day 182: August 06 2022
+
   - [458. Poor Pigs](./August/August_06_2022/458.%20Poor%20Pigs.py)
+
+- Day 183: August 07 2022
+  - [1220. Count Vowels Permutation](./August/August_07_2022/1220.%20Count%20Vowels%20Permutation.py)
