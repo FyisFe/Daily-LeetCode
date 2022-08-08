@@ -1107,4 +1107,8 @@
   - [458. Poor Pigs](./August/August_06_2022/458.%20Poor%20Pigs.py)
 
 - Day 183: August 07 2022
+
   - [1220. Count Vowels Permutation](./August/August_07_2022/1220.%20Count%20Vowels%20Permutation.py)
+
+- Day 184: August 08 2022
+  - [300. Longest Increasing Subsequence](./August/August_08_2022/300.%20Longest%20Increasing%20Subsequence.py)
