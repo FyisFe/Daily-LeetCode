@@ -1119,4 +1119,8 @@
   - [823. Binary Trees With Factors](./August/August_09_2022/823.%20Binary%20Trees%20With%20Factors.py)
 
 - Day 186: August 10 2022
+
   - [108. Convert Sorted Array to Binary Search Tree](./August/August_10_2022/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
+
+- Day 187: August 11 2022
+  - [98. Validate Binary Search Tree](./August/August_11_2022/98.%20Validate%20Binary%20Search%20Tree.py)
