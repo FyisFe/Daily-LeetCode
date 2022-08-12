@@ -1123,4 +1123,8 @@
   - [108. Convert Sorted Array to Binary Search Tree](./August/August_10_2022/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
 
 - Day 187: August 11 2022
+
   - [98. Validate Binary Search Tree](./August/August_11_2022/98.%20Validate%20Binary%20Search%20Tree.py)
+
+- Day 188: August 12 2022
+  - [235. Lowest Common Ancestor of a Binary Search Tree](./August/August_12_2022/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py)
