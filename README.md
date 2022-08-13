@@ -1127,4 +1127,8 @@
   - [98. Validate Binary Search Tree](./August/August_11_2022/98.%20Validate%20Binary%20Search%20Tree.py)
 
 - Day 188: August 12 2022
+
   - [235. Lowest Common Ancestor of a Binary Search Tree](./August/August_12_2022/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py)
+
+- Day 189: August 13 2022
+  - [30. Substring with Concatenation of All Words](./August/August_13_2022/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py)
