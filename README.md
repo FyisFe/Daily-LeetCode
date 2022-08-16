@@ -1139,4 +1139,8 @@
   - [126. Word Ladder II](./August/August_14_2022/126.%20Word%20Ladder%20II.py)
 
 - Day 191: August 15 2022
+
   - [13. Roman to Integer](./August/August_15_2022/13.%20Roman%20to%20Integer.py)
+
+- Day 192: August 16 2022
+  - [387. First Unique Character in a String](./August/August_16_2022/387.%20First%20Unique%20Character%20in%20a%20String.py)
