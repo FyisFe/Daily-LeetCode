@@ -1147,4 +1147,8 @@
   - [387. First Unique Character in a String](./August/August_16_2022/387.%20First%20Unique%20Character%20in%20a%20String.py)
 
 - Day 193: August 17 2022
+
   - [804. Unique Morse Code Words](./August/August_17_2022/804.%20Unique%20Morse%20Code%20Words.py)
+
+- Day 195: August 19 2022
+  - [659. Split Array into Consecutive Subsequences](./August/August_19_2022/659.%20Split%20Array%20into%20Consecutive%20Subsequences.py)
