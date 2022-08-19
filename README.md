@@ -1150,5 +1150,9 @@
 
   - [804. Unique Morse Code Words](./August/August_17_2022/804.%20Unique%20Morse%20Code%20Words.py)
 
+- Day 194: August 18 2022
+
+  - [1338. Reduce Array Size to The Half](./August/August_18_2022/1338.%20Reduce%20Array%20Size%20to%20The%20Half.py)
+
 - Day 195: August 19 2022
   - [659. Split Array into Consecutive Subsequences](./August/August_19_2022/659.%20Split%20Array%20into%20Consecutive%20Subsequences.py)
