@@ -1155,4 +1155,8 @@
   - [1338. Reduce Array Size to The Half](./August/August_18_2022/1338.%20Reduce%20Array%20Size%20to%20The%20Half.py)
 
 - Day 195: August 19 2022
+
   - [659. Split Array into Consecutive Subsequences](./August/August_19_2022/659.%20Split%20Array%20into%20Consecutive%20Subsequences.py)
+
+- Day 196: August 20 2022
+  - [871. Minimum Number of Refueling Stops](./August/August_20_2022/871.%20Minimum%20Number%20of%20Refueling%20Stops.py)
