@@ -1159,4 +1159,8 @@
   - [659. Split Array into Consecutive Subsequences](./August/August_19_2022/659.%20Split%20Array%20into%20Consecutive%20Subsequences.py)
 
 - Day 196: August 20 2022
+
   - [871. Minimum Number of Refueling Stops](./August/August_20_2022/871.%20Minimum%20Number%20of%20Refueling%20Stops.py)
+
+- Day 197: August 21 2022
+  - [936. Stamping The Sequence](./August/August_21_2022/936.%20Stamping%20The%20Sequence.py)
