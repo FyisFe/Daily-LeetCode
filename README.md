@@ -1163,4 +1163,8 @@
   - [871. Minimum Number of Refueling Stops](./August/August_20_2022/871.%20Minimum%20Number%20of%20Refueling%20Stops.py)
 
 - Day 197: August 21 2022
+
   - [936. Stamping The Sequence](./August/August_21_2022/936.%20Stamping%20The%20Sequence.py)
+
+- Day 198: August 22 2022
+  - [342. Power of Four](./August/August_22_2022/342.%20Power%20of%20Four.py)
