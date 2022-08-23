@@ -1167,5 +1167,9 @@
   - [936. Stamping The Sequence](./August/August_21_2022/936.%20Stamping%20The%20Sequence.py)
 
 - Day 198: August 22 2022
+
   - [342. Power of Four](./August/August_22_2022/342.%20Power%20of%20Four.py)
   - [234. Palindrome Linked List](./August/August_22_2022/234.%20Palindrome%20Linked%20List.py)
+
+- Day 199: August 23 2022
+  - [34. Find First and Last Position of Element in Sorted Array](./August/August_23_2022/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)
