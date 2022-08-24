@@ -1177,3 +1177,4 @@
   - [283. Move Zeroes](./August/August_23_2022/283.%20Move%20Zeroes.py)
   - [977. Squares of a Sorted Array](./August/August_23_2022/977.%20Squares%20of%20a%20Sorted%20Array.py)
   - [209. Minimum Size Subarray Sum](./August/August_23_2022/209.%20Minimum%20Size%20Subarray%20Sum.py)
+  - [904. Fruit Into Baskets](./August/August_23_2022/904.%20Fruit%20Into%20Baskets.py)
