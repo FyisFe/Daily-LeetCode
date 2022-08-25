@@ -1187,3 +1187,4 @@
   - [203. Remove Linked List Elements](./August/August_24_2022/203.%20Remove%20Linked%20List%20Elements.py)
   - [707. Design Linked List](./August/August_24_2022/707.%20Design%20Linked%20List.py)
   - [206. Reverse Linked List](./August/August_24_2022/206.%20Reverse%20Linked%20List.py)
+  - [24. Swap Nodes in Pairs](./August/August_24_2022/24.%20Swap%20Nodes%20in%20Pairs.py)
