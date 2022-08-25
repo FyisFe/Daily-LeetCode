@@ -1186,3 +1186,4 @@
   - [59. Spiral Matrix II](./August/August_24_2022/59.%20Spiral%20Matrix%20II.py)
   - [203. Remove Linked List Elements](./August/August_24_2022/203.%20Remove%20Linked%20List%20Elements.py)
   - [707. Design Linked List](./August/August_24_2022/707.%20Design%20Linked%20List.py)
+  - [206. Reverse Linked List](./August/August_24_2022/206.%20Reverse%20Linked%20List.py)
