@@ -1192,3 +1192,4 @@
 
 - Day 201: August 25 2022
   - [869. Reordered Power of 2](./August/August_25_2022/869.%20Reordered%20Power%20of%202.py)
+  - [383. Ransom Note](./August/August_25_2022/383.%20Ransom%20Note.py)
