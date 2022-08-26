@@ -1182,9 +1182,13 @@
   - [76. Minimum Window Substring](./August/August_23_2022/76.%20Minimum%20Window%20Substring.py)
 
 - Day 200: August 24 2022
+
   - [54. Spiral Matrix](./August/August_24_2022/54.%20Spiral%20Matrix.py)
   - [59. Spiral Matrix II](./August/August_24_2022/59.%20Spiral%20Matrix%20II.py)
   - [203. Remove Linked List Elements](./August/August_24_2022/203.%20Remove%20Linked%20List%20Elements.py)
   - [707. Design Linked List](./August/August_24_2022/707.%20Design%20Linked%20List.py)
   - [206. Reverse Linked List](./August/August_24_2022/206.%20Reverse%20Linked%20List.py)
   - [24. Swap Nodes in Pairs](./August/August_24_2022/24.%20Swap%20Nodes%20in%20Pairs.py)
+
+- Day 201: August 25 2022
+  - [869. Reordered Power of 2](./August/August_25_2022/869.%20Reordered%20Power%20of%202.py)
