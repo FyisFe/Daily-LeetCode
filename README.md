@@ -1191,5 +1191,9 @@
   - [24. Swap Nodes in Pairs](./August/August_24_2022/24.%20Swap%20Nodes%20in%20Pairs.py)
 
 - Day 201: August 25 2022
+
   - [869. Reordered Power of 2](./August/August_25_2022/869.%20Reordered%20Power%20of%202.py)
   - [383. Ransom Note](./August/August_25_2022/383.%20Ransom%20Note.py)
+
+- Day 202: August 26 2022
+  - [363. Max Sum of Rectangle No Larger Than K](./August/August_26_2022/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.py)
