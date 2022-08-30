@@ -1214,5 +1214,9 @@
   - [28. Implement strStr()](./August/August_27_2022/28.%20Implement%20strStr.py)
 
 - Day 204: August 28 2022
+
   - [1329. Sort the Matrix Diagonally](./August/August_28_2022/1329.%20Sort%20the%20Matrix%20Diagonally.py)
   - [459. Repeated Substring Pattern](./August/August_28_2022/459.%20Repeated%20Substring%20Pattern.py)
+
+- Day 205: August 29 2022
+  - [424. Longest Repeating Character Replacement](./August/August_29_2022/424.%20Longest%20Repeating%20Character%20Replacement.py)
