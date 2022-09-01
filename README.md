@@ -1224,3 +1224,4 @@
 
 - Day 206: September 01 2022
   - [1448. Count Good Nodes in Binary Tree](./September/September_01_2022/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.py)
+  - [150. Evaluate Reverse Polish Notation](./September/September_01_2022/150.%20Evaluate%20Reverse%20Polish%20Notation.py)
