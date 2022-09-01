@@ -1219,4 +1219,8 @@
   - [459. Repeated Substring Pattern](./August/August_28_2022/459.%20Repeated%20Substring%20Pattern.py)
 
 - Day 205: August 29 2022
+
   - [424. Longest Repeating Character Replacement](./August/August_29_2022/424.%20Longest%20Repeating%20Character%20Replacement.py)
+
+- Day 206: September 01 2022
+  - [1448. Count Good Nodes in Binary Tree](./September/September_01_2022/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.py)
