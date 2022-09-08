@@ -1229,4 +1229,9 @@
   - [239. Sliding Window Maximum](./September/September_01_2022/239.%20Sliding%20Window%20Maximum.py)
 
 - Day 207: September 06 2022
+
   - [974. Subarray Sums Divisible by K](./September/September_06_2022/974.%20Subarray%20Sums%20Divisible%20by%20K.py)
+
+- Day 208: September 08 2022
+  - [207. Course Schedule](./September/September_08_2022/207.%20Course%20Schedule.py)
+  - [210. Course Schedule II](./September/September_08_2022/210.%20Course%20Schedule%20II.py)
